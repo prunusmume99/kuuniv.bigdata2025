@@ -1,39 +1,51 @@
-# kuuniv.bigdata2025
+# KUUNIV Big Data 2025 - 2025.03.04
 
-___
-## 2025-03-04
-___
+## 📌 오늘의 학습 내용
 
-	*1교시
-		**Vmware 설치
-			**Ubuntu 22.04 설치
+---
 
-	*2교시
-		**Github 계정 생성
-		**Github 저장소 생성
-		**Github 저장소 Clone
+## 🕐 1교시: VMware 설치 및 Ubuntu 22.04 설치
+- **VMware 설치**
+- **Ubuntu 22.04 설치**
 
-	*3교시
-		**리눅스 설명
-	*4교시
-		**간단한 프로그램 작성 nano (infinit.c)
->코드 내용
-	int main()
+---
+
+## 🕑 2교시: GitHub 활용
+- **GitHub 계정 생성**
+- **GitHub 저장소 생성**
+- **GitHub 저장소 Clone**
+
+---
+
+## 🕒 3교시: 리눅스 설명
+- **Linux 개요 및 기본 개념 설명**
+
+---
+
+## 🕓 4교시: 간단한 프로그램 작성 (`infinit.c`)
+
+### ✅ 코드 내용:
+```c
+int main()
 {
-  while(1) ;
-  return 0 ;
-
+  while(1);
+  return 0;
 }
 
-	*5교시
-		**C 언어 설명
- 			 ***자료형
-  			***숫자형 - 정수형, 실수형
+## 🕔 5교시: C 언어 설명
 
-	*6교시
-		**온도 예제 작성 celcius2fahr.c
->코드 내용
->	// * 이 프로그램은  int 와 float 값의 연산을 데모하는 프로그램입니다.
+### 🔹 자료형(Data Types)
+- **숫자형(Numeric Types)**
+  - 정수형(Integer)
+  - 실수형(Floating Point)
+
+---
+
+## 🕕 6교시: 온도 변환 프로그램 (`celcius2fahr.c`)
+
+### ✅ 코드 내용:
+```c
+// * 이 프로그램은 int 와 float 값의 연산을 데모하는 프로그램입니다.
 #include <stdio.h>
 
 int main()
@@ -52,42 +64,5 @@ int main()
     return 0;
 }
 
-	*7교시
-		**makefile 작성
->코드내용
->	TARGET = infinit limit celsius2fahr fahr2celsius charNumber
 
-all : ${TARGET}
-
-infinit : $@
-limit : $@
-celsius2fahr : $@
-fahr2celus : $@
-charNumber : $@
-
-clean : 
-	rm ${TARGET}
- 
-		**make 실행
-		**char 설명 및 예제 작성 charNumber.c
-> 코드내용
-> 	#include <stdio.h>
-
-int main()
-{
-    char ch1 = 'A';
-    char ch2 = 65;
-    char ch3 ;
-
-    printf("ch1: %c Number: %d\n", ch1, ch1);
-    printf("ch2: %c Number: %d\n", ch2, ch2);
-    printf("Input A character: ");
-    scanf("%c", &ch3);
-    printf("\nch3: %c Number: %d\n", ch3, ch3);
-
-    return 0 ;
-}
-
-	*8교시
-		**복습 및 정리
 
