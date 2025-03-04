@@ -4,19 +4,19 @@ ___
 ## 2025-03-04
 ___
 
-*1교시
-**Vmware 설치
-**Ubuntu 22.04 설치
+	*1교시
+		**Vmware 설치
+			**Ubuntu 22.04 설치
 
-*2교시
-**Github 계정 생성
-**Github 저장소 생성
-**Github 저장소 Clone
+	*2교시
+		**Github 계정 생성
+		**Github 저장소 생성
+		**Github 저장소 Clone
 
-*3교시
-**리눅스 설명
-*4교시
-**간단한 프로그램 작성 nano (infinit.c)
+	*3교시
+		**리눅스 설명
+	*4교시
+		**간단한 프로그램 작성 nano (infinit.c)
 >코드 내용
 	int main()
 {
@@ -25,13 +25,13 @@ ___
 
 }
 
-*5교시
-**C 언어 설명
-  ***자료형
-  ***숫자형 - 정수형, 실수형
+	*5교시
+		**C 언어 설명
+ 			 ***자료형
+  			***숫자형 - 정수형, 실수형
 
-*6교시
-**온도 예제 작성 celcius2fahr.c
+	*6교시
+		**온도 예제 작성 celcius2fahr.c
 >코드 내용
 >	// * 이 프로그램은  int 와 float 값의 연산을 데모하는 프로그램입니다.
 #include <stdio.h>
@@ -52,8 +52,8 @@ int main()
     return 0;
 }
 
-*7교시
-**makefile 작성
+	*7교시
+		**makefile 작성
 >코드내용
 >	TARGET = infinit limit celsius2fahr fahr2celsius charNumber
 
@@ -68,8 +68,8 @@ charNumber : $@
 clean : 
 	rm ${TARGET}
  
-**make 실행
-**char 설명 및 예제 작성 charNumber.c
+		**make 실행
+		**char 설명 및 예제 작성 charNumber.c
 > 코드내용
 > 	#include <stdio.h>
 
@@ -88,6 +88,6 @@ int main()
     return 0 ;
 }
 
-*8교시
-**복습 및 정리
+	*8교시
+		**복습 및 정리
 
