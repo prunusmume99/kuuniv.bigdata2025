@@ -1,4 +1,5 @@
-TARGET = absolute leafYear  posZeroNeg posZeroNeg2 bigLetter passFail grade grade2 one2Ten one2tensum multiply ascii star
+TARGET = absolute leafYear  posZeroNeg posZeroNeg2 bigLetter passFail grade grade2 one2Ten one2tensum multiply ascii star one2TenWhile one2TenDoWhile randomTwoint staticLocalVariable functionSum returnValue power dice sumArray sumMatrix findMax findValueArray scoreGrade
+
 all : ${TARGET}
 
 absolute : $@
@@ -14,6 +15,19 @@ one2tensum : $@
 multiply : $@
 ascii : $@
 star : $@
+one2TenWhile : $@
+one2TenDoWhile : $@
+randomTwoint : $@
+staticLocalVariable : $@
+functionSum : $@
+returnValue : $@
+power : $@
+dice : $@
+sumArray : $@
+sumMatrix : $@
+findMax : $@
+findValueArray : $@
+scoreGrade : $@
 
 clean : 
 	rm ${TARGET}
