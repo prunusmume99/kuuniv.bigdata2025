@@ -1,4 +1,4 @@
-TARGET = swap selection bubble qsort pointerConcept endian pointer2 functionPointer voidPointer arrayPointer
+TARGET = swap selection bubble qsort pointerConcept endian pointer2 functionPointer voidPointer arrayPointer arrayassignment arrayCompare swapFunction sumArrayFunction sumMatrixFunction
 
 all : ${TARGET}
 
@@ -13,8 +13,11 @@ function : $@
 functionPointer : $@
 voidPointer : $@
 arrayPointer : $@
-
-
+arrayassignment : $@
+arrayCompare : $@
+swapFunction : $@
+sumArrayFunction : $@
+sumMatrixFunction : $@
 
 clean : 
 	rm ${TARGET}
