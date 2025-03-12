@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.repos": "yaml",
+        "*.world": "xml",
+        "*.xacro": "xml",
+        "stdio.h": "c",
+        "random": "c",
+        "stdbool.h": "c",
+        "string": "c",
+        "mysql.h": "c"
+    },
+    "ros.distro": "humble",
+    "cmake.sourceDirectory": "/home/yj/kuuniv.bigdata2025/c_example/sqlQuery"
+}
