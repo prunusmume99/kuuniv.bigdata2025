@@ -1,4 +1,4 @@
-TARGET = swap selection bubble qsort pointerConcept endian pointer2 functionPointer voidPointer arrayPointer arrayassignment arrayCompare swapFunction sumArrayFunction sumMatrixFunction helloString charPointerOperation strcatExample filePointer fileDescriptor
+TARGET = swap selection bubble qsort pointerConcept endian pointer2 functionPointer voidPointer arrayPointer arrayassignment arrayCompare swapFunction sumArrayFunction sumMatrixFunction helloString charPointerOperation strcatExample filePointer fileDescriptor dynamicAlocation charAddress unionExample enumExample
 
 all : ${TARGET}
 
@@ -23,6 +23,10 @@ charPointerOperation : $@
 strcatExample : $@
 filePointer : $@
 fileDescriptor : $@
+dynamicAlocation : $@
+charAddress : $@
+unionExample : $@
+enumExample : $@
 
 clean : 
 	rm ${TARGET}
