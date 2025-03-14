@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(part1)
+project(part2)
 
 # set(EXECUTABLES
 #     /home/yj/kuuniv.bigdata2025/c_example/part1/infinit.c

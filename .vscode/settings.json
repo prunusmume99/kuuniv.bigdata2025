@@ -11,5 +11,4 @@
         "mysql.h": "c"
     },
     "ros.distro": "humble",
-    "cmake.sourceDirectory": "/home/yj/kuuniv.bigdata2025/c_example/sqlQuery"
 }
