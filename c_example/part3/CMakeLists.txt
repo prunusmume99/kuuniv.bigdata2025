@@ -27,3 +27,4 @@ foreach(EXECUTABLE ${EXECUTABLES})
     get_filename_component(EXE_NAME ${EXECUTABLE} NAME_WE)
     add_executable(${EXE_NAME} ${EXECUTABLE})
 endforeach()
+
