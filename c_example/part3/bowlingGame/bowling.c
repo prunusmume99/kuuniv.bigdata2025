@@ -201,6 +201,7 @@ void displayScoreBoard(const int rolls[], int nRolls, const char *playerName)
         }
         cumulative[frame] = (frame == 0) ? frameScores[0] : cumulative[frame - 1] + frameScores[frame];
     }
+    
 
     printf("\n[%s의 볼링 스코어보드]\n", playerName);
     printf("+---------+---------+---------+---------+---------+---------+---------+---------+---------+---------+\n");
