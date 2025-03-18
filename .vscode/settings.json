@@ -8,7 +8,8 @@
         "random": "c",
         "stdbool.h": "c",
         "string": "c",
-        "mysql.h": "c"
+        "mysql.h": "c",
+        "delay.h": "c"
     },
     "ros.distro": "humble",
 }

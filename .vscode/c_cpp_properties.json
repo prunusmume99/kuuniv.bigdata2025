@@ -9,12 +9,14 @@
             "name": "PlatformIO",
             "includePath": [
                 "/home/yj/kuuniv.bigdata2025/src",
+                "/home/yj/kuuniv.bigdata2025/lib/lcd",
                 ""
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
                     "/home/yj/kuuniv.bigdata2025/src",
+                    "/home/yj/kuuniv.bigdata2025/lib/lcd",
                     ""
                 ]
             },
