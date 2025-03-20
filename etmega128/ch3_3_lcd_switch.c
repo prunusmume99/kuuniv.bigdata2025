@@ -21,7 +21,7 @@ int main()
             switch_flag = PINE >> 4; // 0b1000 0b0100
         }
         PORTC = switch_flag;
-        snprintf(lcdBuffer, sizeof(lcdBuffer), "SW: 0x%02X, %c", switch_flag, switch_flag);
+        snprintf(lcdBuffer, sizeof(lcdBuffer), "SW: 0x%02X, %c", switch_flag, '0' + switch_flag);
         lcdGotoXY(0, 0);
         lcdPrint(lcdBuffer);
     }
