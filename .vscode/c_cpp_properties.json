@@ -10,6 +10,9 @@
             "includePath": [
                 "/home/yj/kuuniv.bigdata2025/src",
                 "/home/yj/kuuniv.bigdata2025/lib/lcd",
+                "/home/yj/kuuniv.bigdata2025/lib/at25",
+                "/home/yj/kuuniv.bigdata2025/lib/avr-uart",
+                "/home/yj/kuuniv.bigdata2025/lib/sht20",
                 "/home/yj/kuuniv.bigdata2025/lib/uart0",
                 ""
             ],
@@ -18,6 +21,9 @@
                 "path": [
                     "/home/yj/kuuniv.bigdata2025/src",
                     "/home/yj/kuuniv.bigdata2025/lib/lcd",
+                    "/home/yj/kuuniv.bigdata2025/lib/at25",
+                    "/home/yj/kuuniv.bigdata2025/lib/avr-uart",
+                    "/home/yj/kuuniv.bigdata2025/lib/sht20",
                     "/home/yj/kuuniv.bigdata2025/lib/uart0",
                     ""
                 ]
