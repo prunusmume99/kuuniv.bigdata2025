@@ -1,26 +1,22 @@
-#include <avr/interrupt.h>
+#include <avr/delay.h>
 #include <avr/io.h>
-#include <util/delay.h>
+
 
 int main(void)
 {
-    DDRC = 0x00;
-    DDRB |= _BV(PB4);
-
-    TCCR0 = _BV(WGM00) | _BV(WGM01) | _BV(COM01) | _BV(CS01); // clock select 1024 prescale
-
-    uint8_t brightness = 0;
-    int8_t delta = 1;
+    DDRD = _BV(PD4) | _BV(PD5); // 출력 설정
+    DDRB = _BV(PB5) ;
 
     while (1)
     {
-        OCR0 = brightness; // 0~ 255
-        _delay_ms(10);
-        brightness += delta;
-        if (brightness == 0 || brightness == 255)
-        {
-            delta = -delta;
-        }
+        PORTD = _BV(PD4); // M1 정회전 (스위치 올릴 때)set 
+        PORTB = _BV(PB5); // M1 회전
+        _delay_ms(500);
+
+        PORTD &= ~_BV(PD4); // 0bXXX1XXXX -> & (0b 11101111) (스위치 내릴 때) unset
+        PORTD |= _BV(PD5); // M1 정회전
+        PORTB |= _BV(PB5); // M1 회전 
+        _delay_ms(500);
     }
     return 0;
 }
