@@ -1,1 +1,0 @@
-savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/modules.order := {   echo /home/yj/kuuniv.bigdata2025/raspberryPi/module/module_exam.o; :; } > /home/yj/kuuniv.bigdata2025/raspberryPi/module/modules.order
