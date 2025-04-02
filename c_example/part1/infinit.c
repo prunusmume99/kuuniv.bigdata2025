@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 #include <unistd.h>
 
@@ -10,3 +11,11 @@ int main()
   }
   return 0;
 }
+=======
+int main()
+{
+  while(1) ;
+  return 0 ;
+
+}
+>>>>>>> 4ad5c50c39e23ac4da4d61c5836ecdcb092d4005
