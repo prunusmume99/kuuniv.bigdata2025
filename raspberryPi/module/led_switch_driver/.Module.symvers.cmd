@@ -1,0 +1,1 @@
+savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/led_switch_driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/yj/kuuniv.bigdata2025/raspberryPi/module/led_switch_driver/Module.symvers -T /home/yj/kuuniv.bigdata2025/raspberryPi/module/led_switch_driver/modules.order -i Module.symvers -e 

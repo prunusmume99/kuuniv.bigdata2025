@@ -1,0 +1,1 @@
+savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/switch_interrupt.mod := printf '%s\n'   switch_interrupt.o | awk '!x[$$0]++ { print("/home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/"$$0) }' > /home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/switch_interrupt.mod

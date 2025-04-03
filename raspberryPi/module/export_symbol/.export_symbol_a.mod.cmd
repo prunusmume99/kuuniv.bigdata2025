@@ -1,0 +1,1 @@
+savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/export_symbol/export_symbol_a.mod := printf '%s\n'   export_symbol_a.o | awk '!x[$$0]++ { print("/home/yj/kuuniv.bigdata2025/raspberryPi/module/export_symbol/"$$0) }' > /home/yj/kuuniv.bigdata2025/raspberryPi/module/export_symbol/export_symbol_a.mod

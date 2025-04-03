@@ -10,7 +10,8 @@
         "string": "c",
         "mysql.h": "c",
         "delay.h": "c",
-        "io.h": "c"
+        "io.h": "c",
+        "fcntl.h": "c"
     },
     "ros.distro": "humble",
 }

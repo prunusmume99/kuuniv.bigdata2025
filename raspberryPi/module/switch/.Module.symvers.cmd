@@ -1,0 +1,1 @@
+savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/Module.symvers -T /home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/modules.order -i Module.symvers -e 

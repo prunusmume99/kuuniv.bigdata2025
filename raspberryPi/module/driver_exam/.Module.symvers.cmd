@@ -1,0 +1,1 @@
+savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/driver_exam/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/yj/kuuniv.bigdata2025/raspberryPi/module/driver_exam/Module.symvers -T /home/yj/kuuniv.bigdata2025/raspberryPi/module/driver_exam/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/modules.order := {   echo /home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/switch_interrupt.o; :; } > /home/yj/kuuniv.bigdata2025/raspberryPi/module/switch/modules.order

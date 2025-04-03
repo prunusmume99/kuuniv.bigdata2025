@@ -1,0 +1,1 @@
+savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/export_symbol/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/yj/kuuniv.bigdata2025/raspberryPi/module/export_symbol/Module.symvers -T /home/yj/kuuniv.bigdata2025/raspberryPi/module/export_symbol/modules.order -i Module.symvers -e 
