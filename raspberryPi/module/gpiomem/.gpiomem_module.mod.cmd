@@ -1,0 +1,1 @@
+savedcmd_/home/yj/kuuniv.bigdata2025/raspberryPi/module/gpiomem/gpiomem_module.mod := printf '%s\n'   gpiomem_module.o | awk '!x[$$0]++ { print("/home/yj/kuuniv.bigdata2025/raspberryPi/module/gpiomem/"$$0) }' > /home/yj/kuuniv.bigdata2025/raspberryPi/module/gpiomem/gpiomem_module.mod

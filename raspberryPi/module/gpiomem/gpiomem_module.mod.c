@@ -35,25 +35,14 @@ MODULE_INFO(retpoline, "Y");
 
 static const struct modversion_info ____versions[]
 __used __section("__versions") = {
+	{ 0xedc03953, "iounmap" },
 	{ 0x122c3a7e, "_printk" },
-	{ 0xfe990052, "gpio_free" },
-	{ 0x47229b5c, "gpio_request" },
-	{ 0xb0d2a97, "gpio_to_desc" },
-	{ 0x2fb63741, "gpiod_to_irq" },
-	{ 0x92d5838e, "request_threaded_irq" },
-	{ 0xde81aa90, "__register_chrdev" },
-	{ 0x6bc3fbc0, "__unregister_chrdev" },
-	{ 0x12a4e128, "__arch_copy_from_user" },
-	{ 0xb161b235, "gpiod_direction_output_raw" },
-	{ 0xdcb764ad, "memset" },
-	{ 0x7682ba4e, "__copy_overflow" },
-	{ 0xf0fdf6cb, "__stack_chk_fail" },
-	{ 0x3524cbe9, "gpiod_set_raw_value" },
-	{ 0x6cbbfc54, "__arch_copy_to_user" },
+	{ 0xaf56600a, "arm64_use_ng_mappings" },
+	{ 0x40863ba1, "ioremap_prot" },
 	{ 0x67a35d9, "module_layout" },
 };
 
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "C0C920ABCE5C055D9779898");
+MODULE_INFO(srcversion, "7CD4EDC3D62859D7B670029");
