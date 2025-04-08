@@ -11,7 +11,8 @@
         "mysql.h": "c",
         "delay.h": "c",
         "io.h": "c",
-        "fcntl.h": "c"
+        "fcntl.h": "c",
+        "array": "c"
     },
     "ros.distro": "humble",
 }
