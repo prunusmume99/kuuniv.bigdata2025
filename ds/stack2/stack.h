@@ -1,4 +1,4 @@
-#ifndef STCK_H
+#ifndef STACK_H
 #define STACK_H
 // c 파일에 중복 선언되는 것을 막기 위해 사용
 
