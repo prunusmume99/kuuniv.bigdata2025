@@ -33,6 +33,7 @@ typedef struct queue{
 } Queue;                                // struct stack -> Stack
 
 void initQueue(Queue *pq);
+
 void push(Queue *pq, int data);         // func. declaration
 int pop(Queue *pq);
 

@@ -32,7 +32,10 @@
 int main(void)
 {
     Queue q1, q2;
-    
+    q1.front = q1.rear = 0;
+    q2.front = q2.rear = 0;
+    //초기화
+
     initQueue(&q1);
     initQueue(&q2);
     

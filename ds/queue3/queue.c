@@ -11,7 +11,7 @@
 
 // void enqueue(Queue *q, int data) {
 //     if (q->rear == QUEUESIZE) {
-//         fprintf(stdout, "queue is full.\n");
+//         fprintf(stderr, "queue is full.\n");
 //         exit(1);
 //     }
 //     q->array[q->rear] = data;
@@ -20,7 +20,7 @@
 
 // int dequeue(Queue *q) {
 //     if (q->front == q->rear) {
-//         fprintf(stdout, "queue is empty.\n");
+//         fprintf(stderr, "queue is empty.\n");
 //         exit(2);
 //     }
 //     int data = q->array[q->front];
@@ -40,14 +40,25 @@ void initQueue(Queue *pq)
 
 void push(Queue *pq, int data)
 {
+    if(pq->rear == QUEUESIZE) {
+        fprintf(stderr, "queue is full.\n");
+        exit(1);
+    }
     pq->array[pq->rear] = data;
     ++pq->rear;
 }
+
+
 int pop(Queue *pq)
 {
+    if(pq->rear == pq->front) {
+        fprintf(stderr, "queue is empty.\n");
+        exit(2);
+    }
+
     int i = pq->front;
 
-    ++(pq->front);
+    ++pq->front;
     
     return pq->array[i];
     
