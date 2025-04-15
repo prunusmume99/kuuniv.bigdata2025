@@ -17,11 +17,11 @@ public:
     void operator=(const Rational& r);
     bool operator==(const Rational& r);
 
-    int numerator();                // getter: 분자
-    int denominator();             // getter: 분모
+    int numerator();               // get: 분자
+    int denominator();             // get: 분모
 
-    void numerator(int n);         // setter: 분자
-    void denominator(int d);       // setter: 분모
+    void numerator(int n);         // set: 분자
+    void denominator(int d);       // set: 분모
 };
 
 #endif
