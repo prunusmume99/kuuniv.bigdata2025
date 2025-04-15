@@ -1,23 +1,16 @@
 #include "employee.h"
 
-Employee::Employee(int id, String name, Employee const* pManager) {
+Employee::Employee(int id, String name, Employee *pManager)
+{
     this->id = id;
     this->name = name;
-    this->pManager = const_cast<Employee*>(pManager);  // const 제거
+    this->pManager = pManager;
 }
 
-int Employee::getId() {
-    return this->id;
-}
+// Employee::~Employee() { }
 
-String Employee::getName() {
-    return this->name;
-}
+int Employee::getId() { return this->id; }
+String Employee::getName() { return this->name; }
+Employee* Employee::getManager() { return this->pManager; }
 
-Employee* Employee::getManager() {
-    return this->pManager;
-}
-
-bool Employee::isManager() {
-    return this->pManager == nullptr;
-}
+bool Employee::isManager() { return this->pManager == NULL; }
