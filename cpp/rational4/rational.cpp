@@ -1,17 +1,27 @@
 #include "rational.h"
+#include "gcd.h"
+#include <cassert>
 
 std::ostream& operator<<(std::ostream& out, const Rational& rhs)
 {
     return out << "(" << rhs.num_ << "/" << rhs.den_ << ")";
 }
 
-Rational::Rational(int num, int den)
+void Rational::reduce()
 {
-    num_ = num;
-    den_ = den;
+    int g = gcd(num_, den_);
+    num_ = num_ / g;
+    den_ = den_ / g;
 }
 
-
+Rational::Rational(int num, int den)
+: num_(num), den_(den)
+{
+//     num_ = num;
+//     den_ = den;
+    assert(den );
+    this->reduce();
+}
 
 bool Rational::operator==(const Rational& rhs)
 {

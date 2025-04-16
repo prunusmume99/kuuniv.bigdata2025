@@ -19,12 +19,12 @@ public:
     // +=, -=, *=, /=  ==> O 만들어 줘야함
     
 
-    bool operator==(const Complex& rhs);
-    bool operator!=(const Complex& rhs);
+    bool operator==(const Complex& rhs) const;
+    bool operator!=(const Complex& rhs) const;
     
 
-    const Complex operator+(const Complex& rhs); // 더하기 연산
-    const Complex operator-(const Complex& rhs);
+    const Complex operator+(const Complex& rhs) const; // 더하기 연산
+    const Complex operator-(const Complex& rhs) const;
 
     
     Complex& operator++();      
@@ -38,6 +38,13 @@ public:
     // Complex *operator&() { return this; }
     // const Complex *operator&() const { return this; }
 
+    //get
+    double real() const;
+    double imag() const;
+
+    //set
+    void real(double re);
+    void imag(double im);
 
 };
 #endif
