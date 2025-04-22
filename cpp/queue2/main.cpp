@@ -2,7 +2,7 @@
 #include "queue.h"
 
 int main() {
-    Queue q1(10);
+    Queue q1(10);           // Queue q1= 10; 이거는 안좋음 explicit 키워드 사용
     Queue q2;
 
     q1.push(100);
