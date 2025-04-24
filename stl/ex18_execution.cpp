@@ -1,9 +1,8 @@
-//  g++ -std=c++17 ex18_execution.cpp -ltbb -o ex18_execution
-
+//  g++ -std=c++17 ex18_excution.cpp -ltbb -o ex18_excution
 #include <algorithm>
 #include <chrono>
 #include <cmath>
-#include <execution> // 병렬처리. cpp 17이후
+// #include <execution> // 병렬처리. cpp 17이후
 #include <iostream>
 #include <numeric>
 #include <random>
@@ -27,8 +26,8 @@ int main()
 
     auto start = chrono::high_resolution_clock::now();
     // 실행 시간이 걸리는 코드
-    sort(execution::par, vec.begin(), vec.end());
-    // sort(vec.begin(), vec.end());
+    // sort(execution::par, vec.begin(), vec.end());
+    sort(vec.begin(), vec.end());
     auto end = chrono::high_resolution_clock::now();
 
     cout << "병렬 정렬 소요 시간 : " << chrono::duration_cast<chrono::milliseconds>(end - start).count() << "ms" << endl;
