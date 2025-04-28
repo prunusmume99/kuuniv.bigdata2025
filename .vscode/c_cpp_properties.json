@@ -36,7 +36,7 @@
                 ""
             ],
             "cStandard": "gnu11",
-            "cppStandard": "c++23",
+            "cppStandard": "gnu++11",
             "compilerPath": "/home/yj/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
             "compilerArgs": [
                 "-mmcu=atmega128",
