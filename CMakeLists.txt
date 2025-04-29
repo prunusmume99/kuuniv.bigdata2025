@@ -1,16 +1,16 @@
 cmake_minimum_required(VERSION 3.10)
 project(MainProject)
 
-#내부 CMakeLists.txt 포함
-#include(sqlQuery/CMakeLists.txt)
-
-
-add_subdirectory(sqlQuery)
+# add_subdirectory(c_example/sqlQuery)
+# add_subdirectory(c_example/bowling)
 add_subdirectory(c_example/part1)
 add_subdirectory(c_example/part2)
 add_subdirectory(c_example/part3)
+# add_subdirectory(ds)
 add_subdirectory(cpp)
 add_subdirectory(stl)
 add_subdirectory(smartpoint)
-add_subdirectory(network)
-
+# add_subdirectory(test_ip)
+add_subdirectory(network/icp)
+add_subdirectory(network/tcp_udp)
+add_subdirectory(network/util)
