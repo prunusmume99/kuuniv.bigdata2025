@@ -5,20 +5,26 @@
 #include <sys/socket.h>
 #include <unistd.h>
 
-#define BUF_SIZE 1024
+#define BUF_SIZE 30
 void error_handling(char *message);
 
 int main(int argc, char *argv[])
 {
     int sock;
+    FILE *fp;
+    char buf[BUF_SIZE];
 
     struct sockaddr_in serv_addr;
+    int read_cnt;
+    int str_len, recv_len, recv_cnt;
 
     if (argc != 3)
     {
         printf("사용법: %s <IP> <port>\n", argv[0]);
         exit(1);
     }
+
+    fp = fopen("/home/aa/kuBig2025/network/tcp_udp/receive.txt", "wb"); // ! 자신의 경로 확인!!
 
     sock = socket(PF_INET, SOCK_STREAM, 0); // TCP 설정
     if (sock == -1)
@@ -33,33 +39,18 @@ int main(int argc, char *argv[])
         error_handling("connet() 연결 실패!!!"); // listen 상태의 서버에 접속
     else
         puts("Connected............");
-    char message[BUF_SIZE];
-    int str_len, recv_len, recv_cnt;
-    while (1)
-    {
-        fputs("메세지를 넣으세요(Q 나가기): ", stdout);
-        fgets(message, BUF_SIZE, stdin);
-        if (!strcmp(message, "q\n") || !strcmp(message, "Q\n"))
-            break;
-        str_len = write(sock, message, strlen(message));
-        while (recv_len < str_len)
-        {
-            recv_cnt = read(sock, message, BUF_SIZE - 1);
-            if (recv_cnt == -1)
-            {
-                fputs("read() 에러!!!", stderr);
-                break;
-            }
-            recv_len += recv_cnt;
-        }
-        message[str_len] = '\0';
-        printf("서버에서 온 메세지: %s", message);
-    }
+
+    while ((read_cnt = read(sock, buf, BUF_SIZE)) != 0)
+        fwrite((void *)buf, 1, read_cnt, fp);
+
+    puts("Received file data\n");
+    write(sock, "Thank you!!", 12);
+
+    fclose(fp);
     close(sock);
 
     return 0;
 }
-
 void error_handling(char *message)
 {
     fputs(message, stderr);
