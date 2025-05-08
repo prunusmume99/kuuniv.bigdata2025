@@ -1,0 +1,90 @@
+#define PY_SSIZE_T_CLEAN
+#include <Python.h>
+
+// 클래스 인스턴스 구조체 정의
+typedef struct {
+    PyObject_HEAD
+    PyObject *name;
+} HelloObject;
+
+// 생성자 (Hello())
+static PyObject *Hello_new(PyTypeObject *type, PyObject *args, PyObject *kwds) {
+    HelloObject *self;
+    self = (HelloObject *)type->tp_alloc(type, 0);
+    if (self != NULL) {
+        self->name = PyUnicode_FromString("");
+        if (self->name == NULL) {
+            Py_DECREF(self);
+            return NULL;
+        }
+    }
+    return (PyObject *)self;
+}
+
+// 초기화자 (__init__)
+static int Hello_init(HelloObject *self, PyObject *args, PyObject *kwds) {
+    PyObject *name = NULL;
+    static char *kwlist[] = {"name", NULL};
+
+    if (!PyArg_ParseTupleAndKeywords(args, kwds, "U", kwlist, &name))
+        return -1;
+
+    Py_INCREF(name);
+    Py_DECREF(self->name);
+    self->name = name;  // ✅ 수정: self->name에 값 저장
+
+    return 0;
+}
+
+// 메서드: greet()
+static PyObject *Hello_greet(HelloObject *self, PyObject *Py_UNUSED(ignored)) {
+    return PyUnicode_FromFormat("hello, %U!", self->name);
+}
+
+// 메서드 테이블
+static PyMethodDef Hello_methods[] = {
+    {"greet", (PyCFunction)Hello_greet, METH_NOARGS, "Greet the person."},
+    {NULL}  // 종료 표시
+};
+
+// 타입 객체
+static PyTypeObject HelloType = {
+    PyVarObject_HEAD_INIT(NULL, 0)
+    .tp_name = "mymodule.Hello",
+    .tp_basicsize = sizeof(HelloObject),
+    .tp_itemsize = 0,
+    .tp_flags = Py_TPFLAGS_DEFAULT,
+    .tp_doc = "Hello objects",
+    .tp_new = Hello_new,
+    .tp_init = (initproc)Hello_init,
+    .tp_dealloc = (destructor)PyObject_Del,
+    .tp_methods = Hello_methods,
+};
+
+// 모듈 정의
+static PyModuleDef mymodule = {
+    PyModuleDef_HEAD_INIT,
+    .m_name = "mymodule",
+    .m_doc = "C type module example",
+    .m_size = -1,
+};
+
+// 모듈 초기화 함수
+PyMODINIT_FUNC PyInit_mymodule(void) {
+    PyObject *m;
+    if (PyType_Ready(&HelloType) < 0)
+        return NULL;
+
+    m = PyModule_Create(&mymodule);
+    if (m == NULL)
+        return NULL;
+
+    Py_INCREF(&HelloType);
+    if (PyModule_AddObject(m, "Hello", (PyObject *)&HelloType) < 0) {
+        Py_DECREF(&HelloType);
+        Py_DECREF(m);
+        return NULL;
+    }
+
+    return m;
+}
