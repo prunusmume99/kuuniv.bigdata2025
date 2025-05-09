@@ -105,7 +105,8 @@
         "socket.h": "c",
         "signal.h": "c",
         "string.h": "c",
-        "dlfcn.h": "c"
+        "dlfcn.h": "c",
+        "python.h": "c"
     },
     "ros.distro": "humble",
     "cmake.sourceDirectory": "/home/yj/kuuniv.bigdata2025",
