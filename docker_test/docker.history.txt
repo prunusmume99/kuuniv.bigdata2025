@@ -1,0 +1,19 @@
+ 1645  sudo apt install docker.io
+ 1646  sudo systemctl status docker
+ 1647  sudo systemctl enable docker
+ 1648  sudo usermod -aG docker $USER
+ 1649  sudo newgrp docker
+ 1650  docker
+ 1651  docker pull python:3.10-slim
+ 1652  docker images
+ 1653  docker run -it --name docker_test --net=host python:3.10-slim
+ 1654  history
+---
+ps -al
+
+
+---
+
+docker build --network host -t my-flask .
+ 1752  docker build --network host -t my-flask .
+ 1753  docker run -it --net=host my-flask
