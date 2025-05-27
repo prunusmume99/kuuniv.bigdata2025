@@ -1,0 +1,50 @@
+{
+    "servers": {
+        "taskmaster-ai": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "--package=task-master-ai",
+                "task-master-ai"
+            ],
+            "env": {
+                "OPENAI_API_KEY": "",
+                "ANTHROPIC_API_KEY": ""
+            }
+        },
+        "github": {
+            "command": "docker",
+            "args": [
+                "run",
+                "-i",
+                "--rm",
+                "-e",
+                "GITHUB_PERSONAL_ACCESS_TOKEN",
+                "ghcr.io/github/github-mcp-server"
+            ],
+            "env": {
+                "GITHUB_PERSONAL_ACCESS_TOKEN": "GITHUB_TOKEN=${env:GITHUB_TOKEN}"
+            }
+        },
+        "filesystem": {
+            "command": "docker",
+            "args": [
+                "run",
+                "-i",
+                "--rm",
+                "--mount",
+                "type=bind,src=${workspaceFolder},dst=/projects/workspace",
+                "mcp/filesystem",
+                "/projects"
+            ]
+        },
+        "git": {
+            "command": "uvx",
+            "args": [
+                "mcp-server-git",
+                "--repository",
+                "${workspaceFolder}"
+            ]
+        },
+    }
+}
