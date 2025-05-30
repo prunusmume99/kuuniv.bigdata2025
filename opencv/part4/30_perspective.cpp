@@ -22,7 +22,7 @@ String folderPath = "/home/yj/kuuniv.bigdata2025/opencv/data/";
 void on_mouse(int event, int x, int y, int flags, void *userdata);
 
 int main()
-{
+{ 
     // 웹캠 열기
     VideoCapture cap(0);
     if (!cap.isOpened())
