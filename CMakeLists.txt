@@ -20,4 +20,6 @@ project(MainProject)
 # add_subdirectory(opencv/myself)
 # add_subdirectory(opencv/part3)
 add_subdirectory(opencv/part4)
+add_subdirectory(opencv/part5)
+
 

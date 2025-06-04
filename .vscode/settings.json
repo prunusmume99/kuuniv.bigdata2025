@@ -111,9 +111,11 @@
     "ros.distro": "humble",
     "cmake.sourceDirectory": "/home/yj/kuuniv.bigdata2025",
     "github.copilot.enable": {
-        "*": false,
+        "*": true,
         "plaintext": true,
         "markdown": true,
         "scminput": false
     }
+    
+    
 }
