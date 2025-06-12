@@ -1,0 +1,1462 @@
+Random Forest,RoofStyle,RoofMatl,Exterior1st,Exterior2nd,MasVnrType,ExterQual,ExterCond,Foundation,BsmtQual,BsmtCond,BsmtExposure,BsmtFinType1,BsmtFinType2,Heating,HeatingQC,CentralAir,Electrical,KitchenQual,Functional,FireplaceQu,GarageType,GarageFinish,GarageQual,GarageCond,PavedDrive
+continuous,Flat Gable Gambrel Hip Mansard Shed,CompShg Tar&Grv WdShake WdShngl,AsbShng AsphShn BrkComm BrkFace CBlock CemntBd HdBoard MetalSd Plywood Stucco VinylSd Wd\ Sdng WdShing,AsbShng AsphShn Brk\ Cmn BrkFace CBlock CmentBd HdBoard ImStucc MetalSd Plywood Stone Stucco VinylSd Wd\ Sdng Wd\ Shng,BrkCmn BrkFace None Stone,Ex Fa Gd TA,Ex Fa Gd Po TA,BrkTil CBlock PConc Slab Stone Wood,Ex Fa Gd TA,Fa Gd Po TA,Av Gd Mn No,ALQ BLQ GLQ LwQ Rec Unf,ALQ BLQ GLQ LwQ Rec Unf,GasA GasW Grav Wall,Ex Fa Gd Po TA,N Y,FuseA FuseF FuseP SBrkr,Ex Fa Gd TA,Maj1 Maj2 Min1 Min2 Mod Sev Typ,Ex Fa Gd Po TA,2Types Attchd Basment BuiltIn CarPort Detchd,Fin RFn Unf,Fa Gd Po TA,Ex Fa Gd Po TA,N P Y
+meta,,,,,,,,,,,,,,,,,,,,,,,,,
+154824,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+156924,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+164798,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+175686,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+165774,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+165676,Gable,CompShg,HdBoard,HdBoard,None,TA,Gd,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+165995,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Po,Attchd,Unf,TA,TA,Y
+159757,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+174333,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,BLQ,GasA,Ex,Y,SBrkr,Gd,Typ,Fa,Attchd,Fin,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154904,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+155155,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+173928,Gable,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176793,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+178775,Hip,CompShg,CemntBd,CmentBd,BrkFace,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+176624,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Ex,Attchd,Fin,TA,TA,Y
+185199,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176793,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178292,Hip,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+150550,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Fa,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+158684,Hip,CompShg,Plywood,Plywood,BrkCmn,TA,Gd,CBlock,TA,TA,Gd,BLQ,GLQ,GasA,Ex,Y,SBrkr,TA,Typ,Fa,Attchd,Fin,TA,TA,Y
+176970,Gable,CompShg,HdBoard,ImStucc,BrkFace,Gd,TA,PConc,Gd,TA,No,LwQ,GLQ,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+177047,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+173097,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+175657,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,RFn,TA,TA,Y
+175886,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,ALQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,RFn,TA,TA,Y
+177526,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176846,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Ex,Po,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+160498,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+178948,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+175456,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,Gd,TA,Mn,ALQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+158166,Hip,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+165792,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+156601,Gable,CompShg,Wd Sdng,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159227,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+166933,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Gd,Y,SBrkr,TA,Min2,Gd,Detchd,Unf,TA,TA,Y
+152530,Gable,CompShg,MetalSd,MetalSd,Stone,TA,Gd,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+162079,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+160751,Hip,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+158822,Hip,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+152662,Gable,CompShg,Wd Sdng,Wd Sdng,Stone,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159587,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,TA,Y
+151382,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+153589,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,Av,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+154139,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+161862,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,No,ALQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159325,Gable,CompShg,BrkFace,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,RFn,TA,TA,Y
+159287,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,Gd,BLQ,LwQ,GasA,TA,Y,SBrkr,TA,Min1,TA,Attchd,RFn,TA,TA,Y
+159766,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,PConc,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Min2,Gd,Basment,Unf,TA,TA,Y
+158759,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,P
+180852,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,Mn,BLQ,Rec,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+166607,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,Fa,TA,N
+151165,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,BrkTil,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+153208,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+148936,Gable,CompShg,AsbShng,AsbShng,None,TA,Fa,BrkTil,Fa,Fa,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,Fa,N
+167557,Gable,CompShg,Wd Sdng,Wd Sdng,None,Gd,Gd,BrkTil,TA,TA,No,Unf,Unf,GasW,TA,N,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+162574,Gable,CompShg,Wd Sdng,Wd Sdng,None,Gd,Gd,Stone,Fa,Fa,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,N
+171352,Gable,CompShg,MetalSd,MetalSd,None,TA,Fa,BrkTil,TA,TA,Mn,Unf,Unf,Grav,Fa,N,FuseF,Fa,Typ,Gd,Attchd,Unf,TA,TA,N
+155588,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,Fa,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Min1,Gd,Detchd,Unf,TA,TA,Y
+150651,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+156169,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,Gd,TA,No,BLQ,Unf,GasA,TA,N,FuseA,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+153208,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,TA,N,FuseF,Gd,Typ,Gd,Detchd,Unf,Fa,TA,P
+151351,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,Gd,No,BLQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+150651,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,LwQ,Unf,GasA,Ex,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155640,Gable,CompShg,MetalSd,MetalSd,Stone,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,TA,Y,FuseA,Gd,Min2,Fa,Detchd,Unf,TA,TA,Y
+152933,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,P
+149754,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,Fa,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Fin,TA,TA,P
+153208,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,LwQ,Unf,GasA,TA,Y,FuseF,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+149275,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,Fa,Fa,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+150130,Gable,CompShg,MetalSd,MetalSd,None,TA,Fa,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+168417,Gable,CompShg,Wd Sdng,Wd Sdng,None,Gd,Gd,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,N
+151165,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159596,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+152143,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,Gd,Fa,No,Unf,Unf,GasA,Gd,N,SBrkr,TA,Mod,Gd,Detchd,Unf,Fa,Fa,N
+161827,Gable,CompShg,Wd Sdng,Wd Shng,None,Fa,Fa,BrkTil,TA,TA,No,Rec,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+158782,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,Fa,TA,No,LwQ,Unf,GasA,Ex,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+169379,Gambrel,CompShg,Wd Sdng,Stucco,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasW,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+169548,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,BrkTil,TA,TA,Mn,LwQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,Fa,P
+165177,Gable,Tar&Grv,Plywood,Plywood,BrkFace,Fa,Fa,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+187304,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Mn,BLQ,Rec,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+156082,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153560,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+151657,Gable,CompShg,HdBoard,HdBoard,None,TA,Gd,CBlock,TA,Gd,No,Rec,ALQ,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+175934,Hip,CompShg,Wd Sdng,Wd Sdng,None,Gd,Gd,CBlock,Gd,TA,Gd,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+156017,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,Fa,TA,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+165913,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,Av,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178681,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Mn,BLQ,LwQ,GasA,TA,Y,FuseA,Fa,Typ,Gd,Attchd,RFn,TA,TA,Y
+157412,Gable,CompShg,Wd Sdng,Plywood,None,TA,TA,CBlock,TA,TA,No,GLQ,Rec,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+153542,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,Fa,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Detchd,Unf,Fa,TA,Y
+158875,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,Av,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+180344,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+174488,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Fa,CBlock,TA,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,Fa,N
+173769,Gable,CompShg,Plywood,Plywood,BrkFace,Gd,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,Gd,Gd,Y
+179902,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,Gd,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,2Types,RFn,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+157997,Gable,CompShg,Wd Sdng,Plywood,None,TA,TA,PConc,Fa,Gd,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+164140,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,PConc,Gd,Fa,Av,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,Gd,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+173031,Gable,CompShg,CemntBd,CmentBd,None,Gd,Gd,CBlock,Gd,TA,No,GLQ,Rec,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+152657,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+178798,Hip,CompShg,CemntBd,CmentBd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+151851,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,GLQ,Unf,GasA,TA,N,SBrkr,TA,Min1,Gd,Detchd,Unf,TA,TA,N
+156714,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,Fa,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+158040,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Gd,TA,Gd,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154049,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,N,FuseF,Fa,Typ,Gd,Detchd,Unf,TA,Fa,P
+157054,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,TA,Y
+159380,Hip,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+177784,Gable,CompShg,MetalSd,VinylSd,BrkFace,TA,TA,BrkTil,TA,TA,Mn,Rec,Unf,GasA,Fa,N,FuseA,Fa,Typ,Gd,Detchd,Unf,TA,TA,Y
+152933,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+151671,Flat,Tar&Grv,Plywood,CBlock,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Min2,Gd,Attchd,Unf,TA,TA,Y
+161567,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,TA,Fa,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+173888,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,Gd,Gd,BrkTil,Gd,TA,No,ALQ,BLQ,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+153756,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+169588,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+172224,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+168755,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,Fa,N
+172113,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,Mn,BLQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+162017,Hip,CompShg,Wd Sdng,Wd Sdng,None,Fa,Fa,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,RFn,TA,TA,N
+180676,Hip,CompShg,CemntBd,CmentBd,Stone,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+156896,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Fa,Attchd,Unf,TA,TA,Y
+156896,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,2Types,Unf,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+155955,Hip,CompShg,Plywood,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+167129,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Ex,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+162307,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Po,Attchd,RFn,TA,TA,Y
+159523,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159523,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159934,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+150953,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+179227,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,Gd,TA,Mn,Rec,GLQ,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+162896,Gable,CompShg,HdBoard,HdBoard,None,TA,Po,PConc,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,Fa,Y
+165774,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154103,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,Av,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+180320,Hip,CompShg,VinylSd,VinylSd,None,Gd,Gd,PConc,Gd,Gd,Gd,GLQ,LwQ,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+185423,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Fa,Attchd,Fin,TA,TA,Y
+152819,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Fa,Fa,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+160338,Hip,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+166832,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+175751,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+166251,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+177364,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178278,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+178278,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+165774,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+166192,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+166850,Gable,CompShg,HdBoard,Wd Sdng,BrkFace,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,P
+159020,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+162384,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,TA,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+158036,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,BuiltIn,RFn,TA,TA,Y
+166190,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+184197,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178097,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,ALQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+155384,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Av,ALQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+160551,Hip,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+157227,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+158569,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+155253,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+152087,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159383,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154060,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Detchd,RFn,TA,TA,Y
+153811,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,ALQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+154060,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+154060,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+167579,Gable,CompShg,Plywood,Brk Cmn,None,Gd,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+154904,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+172301,Hip,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+174408,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+173501,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+176760,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+173928,Gable,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+178436,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+174851,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+183133,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+174303,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,Gd,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+174429,Hip,CompShg,VinylSd,VinylSd,None,Ex,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+179177,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176793,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+178270,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179361,Hip,CompShg,CemntBd,CmentBd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,Attchd,Fin,TA,TA,Y
+178436,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+173990,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+174729,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+178436,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+178234,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,Gd,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+183028,Gable,CompShg,WdShing,Wd Shng,None,Gd,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+184901,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+176051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+185276,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Mn,GLQ,Rec,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,BuiltIn,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,Fin,TA,TA,Y
+164674,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,RFn,TA,TA,Y
+175525,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,Gd,TA,PConc,Gd,TA,Av,BLQ,GLQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+177047,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+185199,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+175347,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176760,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+176051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178292,Hip,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+175652,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+179177,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+177594,Gable,CompShg,VinylSd,Wd Shng,None,Gd,TA,PConc,Gd,TA,No,GLQ,ALQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,RFn,TA,TA,Y
+178234,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,RFn,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+179913,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+182002,Gable,Tar&Grv,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,BLQ,Rec,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+176562,Gable,CompShg,HdBoard,HdBoard,None,Gd,Gd,PConc,Gd,Gd,No,GLQ,Rec,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176008,Gable,CompShg,Plywood,ImStucc,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178097,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,LwQ,GLQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+162509,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,Gd,CBlock,Gd,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+151900,Gable,CompShg,Wd Sdng,Wd Shng,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+153427,Hip,CompShg,HdBoard,Plywood,None,TA,TA,CBlock,TA,TA,No,LwQ,BLQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155261,Gable,CompShg,Wd Sdng,Plywood,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+157600,Gable,CompShg,HdBoard,Plywood,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+162536,Gable,CompShg,Plywood,Plywood,None,Gd,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+153404,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,CBlock,TA,TA,No,LwQ,BLQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+176002,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,Gd,CBlock,Gd,Gd,Gd,ALQ,Rec,GasA,Gd,Y,SBrkr,Gd,Maj1,Gd,Attchd,RFn,TA,TA,Y
+179902,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,Gd,PConc,Gd,TA,No,GLQ,ALQ,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+175985,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Mod,TA,BuiltIn,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177526,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+177671,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+173388,Gable,CompShg,MetalSd,MetalSd,BrkFace,Ex,Ex,CBlock,Gd,Gd,Gd,GLQ,ALQ,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+187211,Gable,CompShg,BrkFace,BrkFace,None,Gd,TA,CBlock,Gd,TA,Mn,LwQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+165186,Gable,CompShg,Plywood,Plywood,BrkFace,Gd,Gd,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+181271,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,Mn,GLQ,LwQ,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+164661,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+183465,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Mn,ALQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+157131,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Av,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+167579,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,Gd,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+160880,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+155793,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159981,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+158230,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+155371,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Po,Detchd,Unf,TA,TA,Y
+154810,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+156334,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154649,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,Gd,CBlock,TA,TA,No,BLQ,LwQ,GasA,Fa,Y,SBrkr,TA,Min1,Gd,Detchd,Unf,TA,TA,Y
+151536,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,BLQ,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+153640,Gable,CompShg,HdBoard,HdBoard,Stone,TA,Gd,CBlock,TA,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+151382,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+161286,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Gd,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Po,BuiltIn,Fin,TA,TA,Y
+153351,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,ALQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+164456,Gable,CompShg,BrkComm,Brk Cmn,None,Gd,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,Gd,TA,Y
+157607,Hip,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+154719,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+166807,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,Gd,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+159981,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+165293,Hip,CompShg,MetalSd,MetalSd,None,Gd,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+155797,Gable,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,Rec,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154989,Gable,CompShg,AsbShng,AsbShng,None,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,Gd,Y,FuseA,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+156738,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+162345,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,Fa,Y
+158245,Hip,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+154260,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Basment,Unf,TA,TA,Y
+151382,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,TA,Y
+164868,Hip,CompShg,Wd Sdng,Wd Sdng,None,Gd,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+153781,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+183333,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,Mn,ALQ,Unf,GasA,Ex,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+152933,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+154320,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Attchd,Unf,Fa,TA,Y
+151165,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+168461,Gable,CompShg,MetalSd,MetalSd,None,Gd,Gd,BrkTil,Fa,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+153519,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Detchd,Unf,TA,TA,N
+153208,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,Gd,Min2,TA,Detchd,Unf,TA,TA,Y
+169758,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+176889,Gable,CompShg,Stucco,Stucco,None,Fa,TA,PConc,Fa,TA,No,Unf,Unf,GasA,Gd,N,FuseA,Gd,Typ,Gd,Attchd,Unf,TA,TA,N
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,SBrkr,Gd,Typ,Gd,Detchd,Fin,TA,TA,N
+154238,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155424,Gable,CompShg,MetalSd,MetalSd,Stone,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+159876,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+161200,Gable,CompShg,HdBoard,HdBoard,None,Fa,TA,CBlock,TA,Fa,No,BLQ,Rec,GasA,Gd,Y,SBrkr,TA,Min1,Po,Attchd,RFn,TA,TA,Y
+180270,Hip,CompShg,Wd Sdng,Wd Sdng,None,Gd,Gd,CBlock,TA,TA,Mn,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+159808,Hip,CompShg,Plywood,Plywood,Stone,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159718,Flat,Tar&Grv,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,Gd,TA,Gd,Unf,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Basment,RFn,TA,TA,Y
+151997,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Av,Rec,Unf,GasA,Gd,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+162972,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+147803,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,Gd,No,ALQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+161674,Gable,CompShg,BrkFace,Plywood,None,TA,TA,CBlock,Gd,TA,Av,GLQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseF,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159615,Gable,CompShg,Plywood,Plywood,BrkFace,TA,Gd,CBlock,Gd,TA,Av,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+155793,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+161731,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,Fa,Fa,P
+177320,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Mn,LwQ,Unf,GasA,Gd,N,FuseA,TA,Typ,Gd,Detchd,Unf,Fa,TA,N
+151851,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,Fa,TA,N
+162272,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,ALQ,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+165150,Gable,CompShg,AsbShng,AsbShng,None,Fa,TA,BrkTil,Fa,Po,No,Unf,Unf,GasA,Gd,N,SBrkr,Fa,Typ,Gd,Attchd,Unf,TA,TA,N
+158023,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,Fa,TA,No,Unf,Unf,GasA,Gd,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+151731,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Ex,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+157133,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,Fa,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+151195,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,BrkTil,TA,TA,No,GLQ,Unf,GasA,Fa,N,FuseA,TA,Typ,Gd,Detchd,Unf,TA,Fa,N
+174967,Gable,CompShg,Stucco,Stucco,None,Gd,TA,PConc,Fa,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+168543,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,BrkTil,Fa,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,N
+174977,Gable,CompShg,Stucco,BrkFace,None,TA,TA,BrkTil,Fa,Gd,Mn,Unf,Unf,GasA,Gd,Y,FuseA,Ex,Typ,Gd,Detchd,Unf,TA,TA,Y
+162277,Gable,CompShg,Stucco,Stucco,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Unf,TA,TA,N
+162277,Gable,CompShg,Stucco,Stucco,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+163239,Gable,CompShg,MetalSd,MetalSd,None,Fa,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+163051,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+155369,Mansard,CompShg,AsbShng,AsbShng,None,TA,Fa,CBlock,Fa,TA,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+153208,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,FuseA,Gd,Typ,Gd,BuiltIn,Unf,Fa,TA,Y
+158199,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+164529,Gable,CompShg,Stucco,Stucco,BrkFace,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+154139,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+146206,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,Fa,No,LwQ,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+150736,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,Fa,BrkTil,TA,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,P
+163705,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Detchd,Unf,Fa,Fa,Y
+150243,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,Fa,Y,SBrkr,TA,Min2,Gd,Detchd,Unf,TA,TA,N
+148224,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,Fa,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Sev,Gd,Attchd,Unf,TA,TA,Y
+152628,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,Fa,No,BLQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+146999,Gable,CompShg,MetalSd,MetalSd,Stone,TA,Fa,BrkTil,TA,Fa,No,Rec,Unf,GasA,TA,N,FuseF,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+150822,Gable,CompShg,MetalSd,MetalSd,None,TA,Fa,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+159504,Hip,CompShg,MetalSd,MetalSd,None,TA,Gd,PConc,Gd,Fa,Av,BLQ,Rec,GasA,TA,Y,SBrkr,Gd,Min2,Gd,Attchd,Unf,TA,TA,N
+152426,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,Rec,ALQ,GasA,Ex,Y,FuseF,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+156954,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,Fa,TA,No,Unf,Unf,GasA,Ex,Y,FuseA,Fa,Typ,Gd,CarPort,Unf,TA,TA,Y
+156764,Gable,CompShg,Plywood,Plywood,None,TA,Gd,CBlock,Gd,Gd,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+158351,Gable,CompShg,Plywood,Plywood,None,TA,TA,PConc,Gd,Gd,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,Fa,N
+159902,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,TA,N,FuseA,TA,Typ,Gd,Detchd,Unf,Po,Po,N
+159227,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Po,Attchd,Fin,TA,TA,Y
+157837,Gable,CompShg,Plywood,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Basment,Fin,TA,TA,Y
+153912,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,Gd,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+155504,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,Av,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+181001,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+150665,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,Fa,N,SBrkr,Fa,Min2,Gd,Attchd,Unf,TA,TA,N
+155253,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Mod,Gd,Attchd,Unf,Fa,TA,Y
+154260,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+154810,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+159300,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,Gd,TA,No,BLQ,Unf,GasW,TA,Y,SBrkr,TA,Typ,Gd,Detchd,RFn,TA,TA,P
+187975,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,CBlock,Gd,TA,Mn,GLQ,ALQ,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+175740,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,Gd,TA,No,GLQ,ALQ,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+170783,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,Gd,TA,CBlock,Gd,TA,Av,Rec,GLQ,GasA,Gd,Y,SBrkr,Gd,Min2,Po,Attchd,Unf,TA,TA,Y
+178727,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,PConc,Gd,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+170747,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Mod,TA,Attchd,Unf,TA,TA,P
+151513,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+151513,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+156353,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Detchd,Unf,TA,TA,Y
+151513,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+169325,Hip,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+169325,Hip,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+169325,Hip,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+176760,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+176293,Gable,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+175347,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177951,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176787,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+162098,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,PConc,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+181426,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+169588,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+156952,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,BrkTil,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+154356,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+176839,Hip,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+179109,Hip,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Min1,Gd,2Types,Fin,TA,TA,Y
+163241,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,Wood,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Basment,Fin,TA,TA,Y
+158242,Gable,CompShg,AsbShng,AsbShng,None,TA,TA,CBlock,TA,TA,No,LwQ,Rec,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+184140,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Fa,TA,Mn,Rec,Unf,GasA,TA,Y,FuseA,TA,Min1,Gd,Attchd,RFn,TA,TA,Y
+158166,Hip,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159340,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Min1,TA,Attchd,Unf,TA,TA,Y
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+158059,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,PConc,TA,Fa,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Basment,Unf,TA,TA,Y
+152757,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,FuseF,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+170044,Gable,CompShg,Stucco,Stucco,None,Gd,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+173721,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,Fa,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Min2,TA,Detchd,Unf,TA,TA,Y
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+179065,Gable,CompShg,BrkFace,BrkFace,None,TA,Gd,BrkTil,TA,TA,Mn,Rec,ALQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+153580,Gable,CompShg,HdBoard,Plywood,Stone,TA,TA,CBlock,TA,TA,No,LwQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+157689,Gable,CompShg,BrkComm,Brk Cmn,None,TA,TA,BrkTil,TA,TA,No,BLQ,Rec,GasW,Fa,N,SBrkr,Fa,Maj2,TA,Attchd,Unf,TA,TA,Y
+160634,Gable,CompShg,HdBoard,HdBoard,Stone,TA,TA,PConc,TA,TA,Av,LwQ,BLQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Basment,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+178078,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,Gd,TA,Mn,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+156321,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+154764,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+176348,Hip,CompShg,BrkFace,BrkFace,None,Gd,Gd,CBlock,Gd,TA,No,GLQ,ALQ,GasA,TA,Y,SBrkr,Ex,Min1,Gd,Attchd,Fin,TA,TA,Y
+162143,Gambrel,CompShg,AsbShng,AsbShng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,N,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+154964,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Fa,N,FuseP,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+179361,Hip,CompShg,CemntBd,CmentBd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+160330,Gable,CompShg,Wd Sdng,Wd Sdng,None,Fa,Fa,CBlock,TA,TA,No,GLQ,Unf,GasA,TA,N,FuseA,TA,Min1,Gd,Detchd,Unf,TA,TA,N
+175712,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Gd,TA,No,ALQ,BLQ,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,Fin,TA,TA,Y
+156358,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+153314,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,Av,GLQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+160970,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+172348,Gable,CompShg,CemntBd,CmentBd,Stone,Ex,TA,CBlock,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,Attchd,Fin,TA,TA,Y
+178354,Gable,CompShg,CemntBd,CmentBd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+166887,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,Fin,TA,TA,Y
+165420,Hip,CompShg,Plywood,Plywood,BrkFace,TA,TA,PConc,Gd,TA,Gd,GLQ,ALQ,GasA,Ex,Y,SBrkr,Gd,Min1,Fa,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+179361,Hip,CompShg,CemntBd,CmentBd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+159445,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+159340,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Po,Attchd,Unf,TA,TA,Y
+152435,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Gd,TA,Av,GLQ,BLQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154658,Gable,CompShg,HdBoard,HdBoard,None,TA,Gd,CBlock,Gd,TA,Av,Rec,GLQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+158500,Gable,CompShg,HdBoard,Wd Shng,None,TA,TA,PConc,Gd,TA,Av,GLQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,TA,Y
+162188,Gable,CompShg,HdBoard,Wd Shng,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+167130,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,Ex,CBlock,TA,TA,Gd,BLQ,LwQ,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+164674,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+169753,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+170273,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+165774,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+175767,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+185709,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Min1,TA,Attchd,Fin,TA,TA,Y
+182825,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+166832,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178290,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+177951,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176624,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+161453,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Min2,Gd,Attchd,Unf,TA,TA,Y
+176870,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+159484,Hip,CompShg,AsbShng,AsbShng,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+183719,Gable,CompShg,Plywood,Wd Sdng,BrkFace,Gd,TA,CBlock,Gd,Gd,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,Attchd,RFn,TA,TA,Y
+186103,Gable,CompShg,WdShing,Plywood,BrkFace,Gd,TA,CBlock,Gd,TA,Mn,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+175249,Hip,CompShg,Plywood,Plywood,BrkFace,Gd,Gd,CBlock,Gd,TA,No,GLQ,Rec,GasA,TA,Y,SBrkr,Gd,Typ,Fa,Attchd,Fin,TA,TA,Y
+168156,Hip,CompShg,Plywood,Plywood,BrkFace,Gd,TA,CBlock,Gd,Fa,No,ALQ,LwQ,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+162780,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,No,ALQ,Rec,GasA,TA,Y,SBrkr,Gd,Typ,Po,Attchd,Fin,TA,TA,Y
+181866,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Mn,Unf,Unf,GasA,TA,Y,SBrkr,TA,Min1,TA,Attchd,Unf,TA,TA,Y
+149754,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,Fa,No,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+176097,Mansard,WdShake,Plywood,Plywood,BrkFace,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Min2,Gd,Attchd,Fin,TA,Gd,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178996,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,Gd,TA,Mn,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+181866,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Mn,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+157760,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Gd,TA,No,Rec,ALQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159445,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154742,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,ALQ,LwQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+155600,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+176241,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176976,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Gd,GLQ,BLQ,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,Attchd,Fin,TA,TA,Y
+176624,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+178436,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+179352,Hip,CompShg,CemntBd,CmentBd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,BuiltIn,Fin,TA,TA,Y
+176573,Gable,CompShg,CemntBd,CmentBd,BrkFace,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+174679,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+175901,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176819,Hip,CompShg,MetalSd,MetalSd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+185399,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178153,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+174717,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+173990,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+177671,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177671,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177659,Gable,CompShg,VinylSd,Wd Shng,Stone,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+179177,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+179556,Gable,CompShg,WdShing,Wd Shng,BrkFace,Gd,TA,PConc,Gd,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+177222,Hip,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+184621,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,TA,BuiltIn,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+176051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+179388,Hip,WdShake,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,BLQ,GLQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176799,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+177382,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176391,Hip,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177643,Gable,CompShg,CemntBd,CmentBd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+184802,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Mn,GLQ,ALQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+168378,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+184901,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177047,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+175767,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+157299,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,Gd,No,BLQ,ALQ,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+149140,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Detchd,Unf,TA,TA,Y
+176799,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,Fa,Mn,ALQ,Unf,GasA,Gd,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153133,Hip,CompShg,Wd Sdng,HdBoard,None,TA,TA,CBlock,Gd,Gd,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+156305,Gable,CompShg,HdBoard,ImStucc,BrkFace,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+157594,Gable,CompShg,HdBoard,HdBoard,None,TA,Gd,CBlock,Gd,TA,No,LwQ,ALQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+177222,Hip,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+180472,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,Gd,TA,PConc,Gd,TA,Gd,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Ex,Attchd,Fin,TA,TA,Y
+175985,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+175985,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+167806,Gable,CompShg,MetalSd,MetalSd,Stone,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+175999,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,TA,Attchd,Fin,TA,TA,Y
+174948,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+174800,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,TA,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,TA,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+164798,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+177526,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+177526,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+184384,Gable,CompShg,BrkFace,MetalSd,None,Ex,TA,PConc,Gd,TA,Mn,BLQ,GLQ,GasA,Ex,Y,SBrkr,Ex,Typ,TA,Attchd,Fin,TA,TA,Y
+182456,Hip,CompShg,BrkFace,BrkFace,None,Gd,TA,PConc,Gd,TA,Gd,LwQ,GLQ,GasA,Ex,Y,SBrkr,Gd,Typ,Fa,Attchd,Fin,TA,TA,Y
+174525,Mansard,CompShg,Wd Sdng,Wd Sdng,BrkFace,Gd,Gd,CBlock,Gd,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+182758,Gable,CompShg,VinylSd,VinylSd,None,Ex,Ex,CBlock,Gd,TA,Mn,GLQ,Rec,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+154261,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,Av,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+156685,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Fa,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+150897,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,BLQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+166305,Hip,CompShg,HdBoard,HdBoard,None,Gd,TA,CBlock,TA,TA,No,ALQ,Rec,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153729,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,Gd,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+151513,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154669,Gable,CompShg,Plywood,Plywood,None,TA,Gd,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+159902,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Basment,Unf,Fa,TA,Y
+164018,Gable,CompShg,MetalSd,MetalSd,BrkFace,Fa,Fa,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+155219,Gable,CompShg,HdBoard,HdBoard,None,TA,Gd,CBlock,TA,TA,No,BLQ,Rec,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+156093,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+163173,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,Gd,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+157020,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+154133,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+154320,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154020,Gable,CompShg,MetalSd,MetalSd,Stone,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,FuseA,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+158226,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+158528,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,BLQ,LwQ,GasW,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159767,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+154139,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Maj2,TA,Attchd,Fin,TA,TA,Y
+152779,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Fa,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+150295,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,N
+158897,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,PConc,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,N
+175118,Gambrel,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,N
+157135,Gable,CompShg,HdBoard,Plywood,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,Fin,TA,TA,Y
+157097,Gable,Tar&Grv,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+159504,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,CarPort,Unf,TA,TA,Y
+158328,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Fa,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+167591,Gable,CompShg,BrkFace,Wd Sdng,None,TA,TA,PConc,TA,TA,No,BLQ,Rec,GasA,Gd,Y,FuseA,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+162654,Gable,CompShg,BrkFace,MetalSd,None,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155225,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Fa,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159643,Gable,CompShg,BrkFace,Wd Sdng,None,TA,TA,CBlock,TA,TA,Av,Unf,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+177545,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,Mn,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+165611,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,TA,TA,No,GLQ,Unf,GasA,Gd,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+156230,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+149749,Gable,CompShg,AsbShng,AsbShng,None,TA,TA,BrkTil,TA,Fa,No,Unf,Unf,GasA,Fa,N,SBrkr,TA,Typ,Gd,Attchd,Unf,Fa,TA,Y
+158328,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Fa,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+164139,Gable,CompShg,Wd Sdng,Wd Sdng,None,Gd,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,Fa,Fa,N
+153622,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,Stone,TA,TA,No,Unf,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+151003,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,FuseA,TA,Mod,Gd,Detchd,Unf,TA,TA,Y
+164844,Gable,CompShg,WdShing,Wd Shng,None,Fa,Fa,BrkTil,TA,TA,No,Rec,Unf,GasA,Gd,N,FuseA,Ex,Typ,Gd,Detchd,Unf,Fa,Fa,N
+171599,Gable,CompShg,Stucco,Stucco,None,Gd,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,N
+152933,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+150300,Mansard,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,Gd,No,Unf,Unf,GasA,TA,N,FuseA,TA,Typ,Gd,Detchd,Unf,Fa,TA,P
+156556,Gable,CompShg,Wd Sdng,HdBoard,None,TA,TA,BrkTil,Fa,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,N
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,FuseA,TA,Typ,Po,Detchd,Unf,TA,Gd,Y
+150949,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,FuseA,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+150757,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,Fa,Fa,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Maj2,Gd,Attchd,Unf,TA,TA,N
+154965,Gable,CompShg,MetalSd,MetalSd,None,TA,Fa,BrkTil,Fa,TA,No,Unf,Unf,GasA,TA,N,FuseA,TA,Typ,Gd,Detchd,Unf,Fa,Po,N
+154530,Gable,CompShg,Wd Sdng,Wd Shng,None,TA,TA,BrkTil,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154049,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+154412,Gable,CompShg,AsbShng,AsbShng,None,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,TA,Y,FuseP,TA,Typ,Gd,2Types,Unf,TA,TA,Y
+169405,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,BrkTil,Fa,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,N
+160647,Gable,CompShg,AsbShng,AsbShng,None,Fa,Fa,BrkTil,Fa,Fa,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Maj1,Gd,Detchd,Unf,Fa,Po,N
+175211,Gable,CompShg,Wd Sdng,Wd Shng,None,TA,TA,BrkTil,TA,TA,Mn,Unf,Unf,GasW,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,Fa,Y
+157434,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,TA,N
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+162950,Gable,CompShg,WdShing,Wd Shng,None,Gd,Gd,BrkTil,TA,TA,No,LwQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Po,Detchd,Unf,TA,TA,Y
+146721,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,Fa,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,P
+149140,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,P
+151643,Gable,CompShg,HdBoard,HdBoard,None,TA,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+145032,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Fa,BrkTil,TA,Fa,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,TA,Y
+150752,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,BrkTil,TA,TA,No,Rec,LwQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153519,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+151371,Gable,CompShg,AsbShng,AsbShng,None,TA,Gd,BrkTil,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,BuiltIn,RFn,Fa,TA,Y
+160387,Gable,CompShg,MetalSd,CBlock,None,TA,TA,PConc,TA,TA,No,GLQ,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+163051,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155075,Gable,CompShg,Plywood,Plywood,None,TA,Gd,CBlock,TA,TA,No,GLQ,Unf,GasA,Gd,N,SBrkr,TA,Min2,Gd,Attchd,Unf,TA,TA,P
+172934,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,Mn,Rec,LwQ,GasA,TA,Y,SBrkr,TA,Min2,Gd,Detchd,Unf,TA,TA,Y
+159939,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+151165,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+176605,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,Mn,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+175458,Gambrel,CompShg,MetalSd,MetalSd,None,Gd,TA,BrkTil,Gd,Gd,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,Fa,N
+164463,Gable,CompShg,Stucco,Wd Shng,None,Gd,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Min1,Gd,Detchd,Unf,TA,TA,Y
+147390,Gable,CompShg,HdBoard,HdBoard,None,TA,Fa,BrkTil,TA,Fa,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,Fa,Y
+155371,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+168555,Gable,CompShg,Stucco,Stucco,None,TA,TA,PConc,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+156017,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,Fa,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+166569,Gable,CompShg,AsphShn,AsphShn,None,Fa,Fa,PConc,TA,Fa,No,Unf,Unf,GasA,Ex,N,FuseF,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+163728,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+152769,Gable,CompShg,HdBoard,Wd Sdng,None,TA,TA,CBlock,Gd,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+159014,Gable,CompShg,HdBoard,Plywood,BrkFace,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,Unf,TA,TA,Y
+150954,Gable,CompShg,HdBoard,HdBoard,None,TA,Fa,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+158740,Gable,CompShg,HdBoard,HdBoard,BrkCmn,TA,TA,CBlock,Gd,TA,Gd,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Po,Basment,Fin,TA,TA,Y
+184725,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,Mn,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+162304,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,Av,LwQ,ALQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+168284,Gable,CompShg,BrkFace,Stucco,None,TA,TA,PConc,TA,Fa,No,BLQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,CarPort,Unf,TA,TA,Y
+150953,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+155796,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,Gd,Gd,GLQ,Unf,GasA,TA,Y,FuseA,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+181378,Flat,Tar&Grv,Plywood,Plywood,Stone,TA,TA,CBlock,TA,TA,Mn,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Mod,TA,Basment,Unf,TA,TA,Y
+152757,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,Gd,Min1,Gd,2Types,Unf,TA,TA,N
+162543,Hip,CompShg,HdBoard,HdBoard,None,TA,Gd,PConc,Gd,TA,Av,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,2Types,Unf,TA,TA,Y
+155469,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+162438,Gable,CompShg,BrkFace,Plywood,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+165865,Flat,Tar&Grv,VinylSd,VinylSd,None,TA,TA,PConc,TA,TA,Gd,ALQ,Unf,GasA,Ex,Y,SBrkr,Fa,Typ,Gd,Attchd,Unf,TA,TA,Y
+153470,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Av,Rec,Unf,GasA,TA,Y,FuseA,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+160696,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Fa,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+167277,Gable,CompShg,VinylSd,VinylSd,BrkCmn,Gd,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+177047,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,LwQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,Fin,TA,TA,Y
+177047,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+180423,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,Gd,TA,Y
+173501,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Fa,Attchd,Fin,TA,TA,Y
+156281,Flat,Tar&Grv,Plywood,Plywood,None,TA,TA,CBlock,Gd,Gd,Gd,LwQ,ALQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+170121,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+169588,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+182117,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Mn,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+157131,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,TA,Y
+155874,Gable,CompShg,Plywood,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,ALQ,GasA,TA,Y,SBrkr,TA,Min2,Gd,Attchd,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,Fin,TA,TA,Y
+178436,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+168829,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,PConc,Gd,TA,Gd,GLQ,LwQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+185199,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+155793,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+158313,Gable,CompShg,HdBoard,Plywood,BrkFace,TA,TA,CBlock,Gd,Gd,Gd,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,BuiltIn,RFn,Fa,TA,Y
+160683,Hip,CompShg,HdBoard,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Po,Detchd,Unf,TA,TA,Y
+160177,Hip,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,Av,ALQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+158074,Hip,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+153940,Gable,CompShg,Plywood,Plywood,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,Ex,Typ,Gd,Attchd,Unf,TA,TA,Y
+158504,Gable,CompShg,AsbShng,Plywood,None,TA,Fa,PConc,TA,TA,No,GLQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+154968,Gable,CompShg,WdShing,Wd Shng,BrkCmn,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,N,FuseF,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+153470,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,N,FuseP,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+161731,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Gd,Y,FuseF,Ex,Typ,Gd,Attchd,Unf,TA,TA,N
+148941,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,Slab,TA,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Min1,Gd,Attchd,Unf,TA,TA,Y
+158307,Gable,CompShg,MetalSd,MetalSd,Stone,TA,TA,CBlock,Gd,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154971,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,Ex,TA,Av,Unf,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Basment,Unf,TA,TA,Y
+158759,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,N
+158151,Gable,CompShg,WdShing,Wd Shng,BrkFace,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+164450,Gable,CompShg,Stucco,Stucco,None,TA,TA,BrkTil,TA,TA,No,ALQ,Rec,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+160451,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,P
+158818,Gable,CompShg,Wd Sdng,Wd Shng,None,TA,TA,BrkTil,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+176946,Gable,CompShg,Stucco,Stucco,None,Gd,Gd,PConc,Fa,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,P
+154940,Hip,CompShg,Wd Sdng,Plywood,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+158199,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Min2,Gd,Detchd,Unf,TA,TA,Y
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseF,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+163398,Hip,CompShg,WdShing,Plywood,BrkFace,TA,Fa,PConc,TA,TA,No,Rec,Unf,GasA,Fa,N,FuseA,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+165475,Gable,CompShg,BrkFace,Stucco,Stone,TA,TA,PConc,TA,Fa,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Fin,Fa,TA,Y
+150321,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+166508,Gable,CompShg,BrkFace,MetalSd,None,TA,TA,PConc,TA,TA,No,Rec,Unf,GasA,Ex,Y,FuseA,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+156321,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Gd,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+152239,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,BrkTil,TA,TA,No,Rec,GLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,P
+159092,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,Fa,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154523,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+180623,Hip,CompShg,HdBoard,Plywood,None,Fa,TA,CBlock,Gd,TA,Mn,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Mod,Po,Attchd,Unf,TA,TA,Y
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,RFn,TA,TA,Y
+162426,Gable,CompShg,WdShing,Wd Shng,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+161289,Gable,CompShg,AsbShng,VinylSd,None,Fa,Po,Slab,TA,TA,No,GLQ,Unf,Wall,Po,N,FuseA,Fa,Typ,Gd,Attchd,Unf,Fa,Po,N
+147116,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,Stone,TA,Fa,No,Unf,Unf,GasA,Ex,N,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+161338,Gable,CompShg,Plywood,Plywood,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,TA,N,FuseA,TA,Typ,Gd,Detchd,Unf,Po,Fa,N
+173626,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,Stone,Fa,Fa,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Fa,Min2,Gd,Detchd,Unf,Fa,Fa,N
+179361,Hip,CompShg,CemntBd,CmentBd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+180676,Hip,CompShg,CemntBd,CmentBd,Stone,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+184421,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+181426,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+156896,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+165774,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+172127,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178234,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+157811,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+173955,Gable,CompShg,Plywood,HdBoard,BrkFace,Gd,Gd,CBlock,Gd,Gd,Av,GLQ,Rec,GasA,Ex,Y,SBrkr,Gd,Typ,Fa,Attchd,Unf,TA,TA,Y
+175445,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+184107,Hip,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+174948,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+168220,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,Gd,PConc,Gd,Gd,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+169325,Hip,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+156467,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Av,ALQ,LwQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,2Types,Fin,TA,TA,Y
+170363,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+165661,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+159701,Gable,CompShg,CemntBd,CmentBd,None,TA,Gd,CBlock,Gd,TA,Av,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+160352,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Po,BuiltIn,RFn,TA,TA,Y
+154099,Gable,CompShg,Plywood,Plywood,None,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+157209,Gable,CompShg,CemntBd,CmentBd,None,TA,Gd,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+150953,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+157600,Gable,CompShg,HdBoard,Plywood,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+157135,Gable,CompShg,HdBoard,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+153912,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Maj1,Gd,Detchd,Unf,TA,Fa,N
+157498,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+166832,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,No,LwQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+175767,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,Gd,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+166832,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+165774,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+156015,Gable,CompShg,HdBoard,HdBoard,BrkCmn,TA,TA,CBlock,TA,TA,Av,BLQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,P
+172713,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+179430,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+183946,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+173261,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,Gd,TA,Y
+160519,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,Gd,ALQ,Unf,GasW,TA,Y,SBrkr,TA,Mod,Gd,2Types,Unf,TA,TA,N
+178055,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+177858,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,Gd,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179352,Hip,CompShg,CemntBd,CmentBd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+155482,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+172890,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+156884,Gable,CompShg,Plywood,Plywood,Stone,TA,TA,CBlock,Gd,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+158964,Hip,WdShake,HdBoard,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+158036,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+160425,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+183767,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Mn,ALQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+160845,Gable,CompShg,Plywood,Plywood,Stone,TA,TA,CBlock,Gd,TA,Gd,GLQ,Rec,GasA,TA,Y,SBrkr,Gd,Typ,Fa,Attchd,Fin,TA,TA,Y
+155369,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,ALQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Min2,Gd,Detchd,Unf,TA,TA,Y
+158787,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,GLQ,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,Gd,Y
+150908,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,BrkTil,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Basment,Unf,Fa,TA,Y
+182873,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+175985,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+157793,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Detchd,Unf,TA,TA,Y
+154060,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159227,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+176760,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+185924,Gable,CompShg,CemntBd,CmentBd,Stone,Gd,TA,PConc,Ex,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179913,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Ex,Attchd,Fin,TA,TA,Y
+179352,Hip,CompShg,CemntBd,CmentBd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+176793,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176624,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+176760,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,Attchd,Fin,TA,TA,Y
+178055,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,BuiltIn,Fin,TA,TA,Y
+175289,Hip,CompShg,CemntBd,CmentBd,BrkFace,Ex,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+176293,Gable,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176819,Hip,CompShg,MetalSd,MetalSd,Stone,Ex,TA,PConc,Ex,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,BuiltIn,RFn,TA,TA,Y
+185399,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+175347,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+184570,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,Gd,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+173990,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+177671,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177659,Gable,CompShg,VinylSd,Wd Shng,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+170051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+170251,Gable,CompShg,VinylSd,VinylSd,Stone,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Unf,TA,TA,Y
+166048,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+180616,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+179913,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+177535,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178055,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,Fin,TA,TA,Y
+176454,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+179902,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,Gd,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+185461,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+175289,Hip,CompShg,CemntBd,CmentBd,BrkFace,Ex,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+177102,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,Gd,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+170051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+174695,Hip,CompShg,WdShing,Wd Shng,None,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+182437,Gable,CompShg,CemntBd,CmentBd,None,Ex,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Min2,Gd,BuiltIn,RFn,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+178234,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,Gd,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+155932,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+158102,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,No,LwQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Fin,TA,TA,Y
+177128,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+160921,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,Fa,TA,Gd,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+179321,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,Gd,TA,Mn,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+174431,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+175495,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+167625,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+177526,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+177364,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+177825,Hip,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+183962,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,Gd,TA,Y
+181967,Gable,CompShg,BrkFace,BrkFace,None,Gd,TA,PConc,Gd,TA,Gd,LwQ,ALQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+174739,Hip,CompShg,VinylSd,MetalSd,BrkFace,Gd,TA,CBlock,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,Gd,TA,Y
+179663,Hip,CompShg,BrkFace,BrkFace,None,Gd,TA,CBlock,Gd,TA,Gd,ALQ,Rec,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+156067,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+158057,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Po,Attchd,RFn,TA,TA,Y
+161142,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,Av,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+165614,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+153742,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+169588,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+177526,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+157230,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+161381,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+149916,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,ALQ,BLQ,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+151513,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,CarPort,Unf,TA,TA,Y
+152460,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,Gd,Y,SBrkr,Gd,Min1,Gd,Detchd,Unf,TA,TA,Y
+153052,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,ALQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+153756,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Fa,Detchd,Fin,TA,TA,Y
+160373,Hip,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+160801,Hip,CompShg,HdBoard,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+161409,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154013,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+161601,Gable,CompShg,Wd Sdng,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+181499,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,Gd,CBlock,TA,TA,Mn,ALQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+160945,Gable,CompShg,Wd Sdng,HdBoard,None,TA,TA,PConc,TA,TA,No,LwQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+163810,Gable,CompShg,WdShing,Wd Shng,None,Fa,Fa,CBlock,Fa,Fa,No,LwQ,Unf,GasA,Fa,N,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,N
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,TA,N,FuseA,Fa,Typ,Gd,Attchd,Unf,TA,TA,N
+155294,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,BLQ,ALQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+157007,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,Gd,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+156533,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Basment,Fin,TA,TA,Y
+161398,Hip,CompShg,WdShing,Wd Shng,BrkFace,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+155253,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+151586,Gable,CompShg,Wd Sdng,Wd Sdng,BrkCmn,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,TA,Y
+154320,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,2Types,RFn,TA,TA,Y
+156138,Hip,CompShg,HdBoard,HdBoard,BrkCmn,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+158881,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+152933,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+154644,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,Av,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+154260,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+152514,Gable,CompShg,VinylSd,MetalSd,None,TA,Ex,CBlock,TA,TA,No,BLQ,Unf,GasA,Gd,Y,SBrkr,Ex,Typ,Gd,Detchd,Unf,TA,TA,Y
+154984,Hip,CompShg,Wd Sdng,Wd Sdng,Stone,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153742,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+154632,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,ALQ,GasA,TA,Y,FuseF,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+152996,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,Rec,ALQ,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+163705,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,TA,Y
+151382,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+158409,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,Gd,Y,SBrkr,TA,Min1,Fa,Attchd,Fin,TA,TA,Y
+152933,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+166964,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,CBlock,Fa,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+149100,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,Fa,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+146367,Gable,CompShg,Wd Sdng,MetalSd,None,TA,TA,BrkTil,TA,Fa,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Min1,Gd,BuiltIn,Unf,TA,TA,Y
+180493,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,Mn,ALQ,LwQ,GasA,Ex,Y,SBrkr,TA,Mod,Gd,Detchd,Unf,TA,TA,Y
+154080,Gable,CompShg,Wd Sdng,HdBoard,None,TA,Gd,CBlock,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,N
+159972,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,Av,Rec,ALQ,GasA,TA,Y,SBrkr,TA,Typ,TA,BuiltIn,Unf,TA,TA,Y
+159445,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+181766,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,Mn,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159936,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Fa,Y,FuseA,TA,Min2,TA,Attchd,Unf,TA,TA,Y
+161683,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+161453,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+162972,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+162953,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+157760,Gable,CompShg,BrkFace,Wd Sdng,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+148763,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,ALQ,BLQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154103,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Po,Attchd,RFn,TA,TA,Y
+162667,Gable,CompShg,MetalSd,MetalSd,None,Gd,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,RFn,TA,TA,Y
+153208,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+158593,Gable,CompShg,AsbShng,AsbShng,None,TA,TA,PConc,Fa,Fa,No,LwQ,Unf,GasA,TA,N,FuseF,Fa,Typ,Gd,Detchd,Unf,TA,Fa,N
+154139,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,N
+154860,Gable,CompShg,VinylSd,VinylSd,Stone,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155792,Gable,CompShg,Stucco,Stucco,None,TA,TA,BrkTil,TA,Fa,No,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+160730,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,Fa,TA,No,LwQ,Rec,GasA,Gd,N,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,Fa,Y
+163051,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+165071,Hip,CompShg,VinylSd,VinylSd,None,Gd,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,N,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+162451,Gambrel,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,LwQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153519,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,Fa,Y
+152937,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,Gd,Gd,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+154850,Gambrel,CompShg,VinylSd,VinylSd,None,TA,Gd,BrkTil,TA,Fa,No,Rec,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+156578,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,PConc,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+154320,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,Fa,TA,Y
+152819,Gable,CompShg,Stucco,Wd Sdng,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Mod,TA,Attchd,RFn,TA,TA,Y
+158339,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,PConc,TA,TA,No,LwQ,Rec,GasA,TA,N,FuseA,TA,Mod,Gd,Detchd,Unf,Fa,TA,Y
+158328,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,Fa,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+150651,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+179986,Gable,CompShg,MetalSd,VinylSd,None,TA,TA,CBlock,TA,TA,Mn,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+165316,Gable,CompShg,AsbShng,AsbShng,None,Gd,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155051,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,BrkTil,TA,TA,No,LwQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+150294,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,BrkTil,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+152757,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,ALQ,Unf,GasA,Gd,Y,FuseA,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+149140,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+160597,Gable,CompShg,Wd Sdng,Wd Shng,None,TA,Gd,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,P
+161735,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Fa,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155069,Gable,CompShg,Wd Sdng,Wd Shng,None,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,Gd,N,FuseA,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+155462,Gable,CompShg,AsbShng,AsbShng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,N,FuseA,TA,Typ,Gd,Detchd,Unf,TA,Fa,Y
+155462,Gable,CompShg,AsbShng,AsbShng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,N,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+159876,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+154774,Gable,CompShg,VinylSd,VinylSd,None,TA,Ex,CBlock,TA,TA,No,LwQ,Rec,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Detchd,Fin,TA,TA,Y
+149015,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,Fa,No,LwQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+158528,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,Fa,TA,No,Rec,ALQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,RFn,TA,TA,Y
+157139,Gable,CompShg,Wd Sdng,Wd Sdng,None,Fa,Fa,CBlock,TA,Fa,No,Unf,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,Fa,N
+150701,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+156896,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+151825,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+156374,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Av,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Min2,TA,Detchd,Unf,TA,TA,Y
+155369,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+168264,Hip,CompShg,HdBoard,HdBoard,BrkFace,Gd,Gd,CBlock,TA,TA,Gd,LwQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Po,Detchd,Unf,TA,TA,Y
+151994,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Av,Rec,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+153499,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+185497,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Mn,Rec,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+152459,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,Gd,CBlock,TA,TA,No,LwQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155126,Gable,CompShg,Plywood,Plywood,None,TA,Gd,CBlock,TA,TA,No,Rec,ALQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+163473,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,Rec,ALQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+158733,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,Fa,CBlock,Gd,TA,No,BLQ,Unf,GasA,Fa,Y,SBrkr,TA,Mod,Gd,Attchd,Unf,TA,TA,Y
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,ALQ,Unf,GasA,Ex,Y,FuseA,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+155253,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+181689,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,Mn,Rec,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159101,Gable,CompShg,Wd Sdng,Wd Sdng,None,Fa,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,N,FuseA,TA,Min2,Gd,2Types,Unf,Fa,TA,Y
+167291,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,PConc,Gd,TA,No,BLQ,LwQ,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+172542,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,Gd,CBlock,TA,Gd,Mn,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Detchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Mod,TA,Detchd,Unf,TA,TA,P
+152933,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Mod,Gd,Attchd,Unf,TA,TA,N
+157980,Hip,CompShg,MetalSd,MetalSd,Stone,TA,Gd,CBlock,Gd,Fa,No,LwQ,Unf,GasA,Ex,Y,SBrkr,Gd,Min2,Gd,Attchd,Fin,TA,TA,Y
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+151513,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,N,SBrkr,Gd,Min2,Gd,Detchd,Unf,TA,TA,N
+165597,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,Gd,Ex,CBlock,TA,TA,No,LwQ,GLQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+155588,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,Fa,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+174684,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,Mn,LwQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+170511,Gambrel,CompShg,MetalSd,MetalSd,None,Fa,Fa,BrkTil,TA,Fa,No,Unf,Unf,GasW,Fa,N,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,P
+151065,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Min2,Po,Attchd,Unf,TA,TA,P
+178727,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,PConc,Gd,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+175729,Hip,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177089,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179913,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176936,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,LwQ,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+173166,Shed,WdShngl,Wd Sdng,Wd Sdng,None,Gd,TA,CBlock,Gd,Gd,Gd,LwQ,GLQ,GasA,Ex,Y,SBrkr,Gd,Typ,Fa,Attchd,Fin,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+169242,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+168252,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,PConc,Gd,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+179913,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+151825,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,Av,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159132,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,Gd,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,TA,Y
+156970,Gable,CompShg,Plywood,VinylSd,BrkFace,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,TA,Y
+156134,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,Gd,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+148396,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,Av,Rec,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+158060,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+155371,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,Ex,Typ,Gd,Detchd,Fin,Gd,Ex,Y
+155075,Gable,CompShg,Plywood,Plywood,None,TA,Gd,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+173648,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,TA,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+180063,Hip,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,PConc,Gd,TA,Gd,BLQ,GLQ,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Min2,TA,Attchd,RFn,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178278,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+184901,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+160608,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Gd,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Fa,Attchd,Unf,TA,TA,Y
+152435,Gable,CompShg,VinylSd,VinylSd,Stone,TA,Gd,CBlock,TA,TA,No,BLQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,P
+148785,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,ALQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+158070,Hip,CompShg,HdBoard,HdBoard,Stone,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Min2,Gd,Attchd,Fin,TA,TA,P
+153207,Gable,CompShg,HdBoard,Plywood,None,TA,Fa,CBlock,TA,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,Fa,Y
+153940,Gable,CompShg,Plywood,Plywood,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,Gd,Y
+168362,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,Gd,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+179361,Hip,CompShg,CemntBd,CmentBd,Stone,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+171654,Gable,CompShg,VinylSd,VinylSd,Stone,TA,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Basment,Fin,TA,TA,Y
+159126,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,Av,Rec,ALQ,GasA,Ex,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,TA,Y
+161105,Gable,CompShg,AsbShng,Plywood,BrkCmn,TA,TA,PConc,TA,TA,No,GLQ,Unf,GasA,TA,N,SBrkr,Fa,Typ,Gd,Attchd,Unf,TA,TA,N
+156896,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+153592,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,LwQ,ALQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,TA,Y
+159270,Gable,CompShg,WdShing,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+173814,Hip,CompShg,Wd Sdng,Plywood,None,TA,TA,PConc,TA,TA,Mn,Rec,Unf,Grav,Fa,N,FuseA,TA,Min2,Gd,Attchd,Unf,TA,TA,Y
+176373,Hip,CompShg,Stucco,Plywood,None,TA,TA,PConc,TA,TA,Mn,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+152757,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,P
+156169,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,Gd,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+154238,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+155051,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,TA,Detchd,Unf,TA,TA,Y
+152779,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Fa,Y,SBrkr,TA,Min1,Gd,Attchd,Fin,TA,TA,Y
+154062,Gable,CompShg,AsbShng,CmentBd,None,TA,Gd,BrkTil,TA,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Detchd,Unf,Fa,TA,Y
+149674,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,Fa,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+179735,Gable,CompShg,Wd Sdng,MetalSd,BrkFace,TA,Fa,CBlock,TA,Gd,Mn,LwQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+166124,Hip,CompShg,HdBoard,BrkFace,None,TA,TA,PConc,Gd,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+157968,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+169493,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+157617,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+158569,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+168138,Gable,CompShg,WdShing,Plywood,None,Gd,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,Gd,Gd,Y
+152757,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,ALQ,Unf,GasA,Gd,Y,FuseA,Gd,Typ,Gd,Detchd,Fin,TA,TA,Y
+161479,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,BrkTil,TA,Po,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+157689,Gable,CompShg,Wd Sdng,Plywood,None,TA,TA,BrkTil,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+162277,Gable,CompShg,Stucco,Stucco,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,Fa,N
+153519,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Maj2,Gd,Detchd,Unf,TA,Fa,N
+152445,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,Unf,Unf,GasA,Fa,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+154320,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+166405,Hip,CompShg,MetalSd,MetalSd,None,Gd,TA,BrkTil,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,Po,N
+180486,Hip,CompShg,CemntBd,CmentBd,Stone,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+154188,Gable,CompShg,HdBoard,Wd Shng,None,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Po,BuiltIn,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+160970,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+158842,Gable,CompShg,Plywood,Plywood,Stone,TA,TA,CBlock,TA,TA,Av,Rec,GLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+153560,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Po,Attchd,Unf,TA,TA,Y
+175400,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,BrkTil,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+158299,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,Gd,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176839,Hip,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+152086,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,No,ALQ,BLQ,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+185399,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+177535,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Ex,Attchd,Fin,TA,TA,Y
+176454,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176870,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Min1,Gd,2Types,RFn,TA,TA,N
+166902,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Ex,TA,Av,Rec,GLQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+159934,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+156134,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+162541,Gable,CompShg,CemntBd,CmentBd,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159523,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159104,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Fa,Attchd,Fin,TA,TA,Y
+159911,Gable,CompShg,HdBoard,Plywood,None,TA,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+173913,Gable,CompShg,Plywood,Plywood,None,TA,Fa,PConc,TA,TA,Mn,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Mod,TA,Attchd,RFn,TA,TA,P
+163968,Gable,CompShg,Plywood,Plywood,None,TA,TA,PConc,Gd,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+151551,Gable,CompShg,Wd Sdng,HdBoard,None,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+157243,Shed,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,Fa,Y
+159749,Gable,CompShg,Plywood,Plywood,None,TA,TA,PConc,Gd,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+155088,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+155017,Gable,CompShg,Plywood,HdBoard,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+157395,Hip,CompShg,Wd Sdng,Wd Sdng,Stone,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+155537,Hip,CompShg,VinylSd,VinylSd,BrkFace,TA,Gd,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+179286,Gable,CompShg,Wd Sdng,Wd Sdng,Stone,TA,TA,CBlock,TA,TA,Mn,Rec,Unf,GasA,Fa,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+159095,Gable,CompShg,Wd Sdng,Wd Sdng,Stone,TA,TA,CBlock,Gd,TA,Gd,ALQ,Unf,GasA,Ex,Y,SBrkr,Ex,Min1,Gd,Attchd,Unf,TA,TA,Y
+184467,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,Gd,CBlock,TA,TA,Mn,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+164674,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,TA,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+165774,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+165774,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,BuiltIn,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177364,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+166832,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+155088,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+177450,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,Ex,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+179352,Hip,CompShg,CemntBd,CmentBd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Ex,BuiltIn,Fin,TA,TA,Y
+177858,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,Gd,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+174408,Hip,CompShg,VinylSd,VinylSd,Stone,Ex,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+175445,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+178756,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176624,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Unf,TA,TA,Y
+155158,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+159767,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+173793,Gable,CompShg,VinylSd,Wd Shng,Stone,Gd,TA,CBlock,Ex,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Fa,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Ex,BuiltIn,Fin,TA,TA,Y
+155228,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,Fa,No,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+160541,Gable,CompShg,HdBoard,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+155369,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+175985,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159445,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Gd,Y,SBrkr,Gd,Min1,Fa,Attchd,Unf,TA,TA,Y
+157793,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+159445,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+152086,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,No,ALQ,BLQ,GasA,Gd,Y,SBrkr,TA,Typ,Po,Attchd,RFn,TA,TA,Y
+180937,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,Mn,ALQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+149834,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,TA,TA,No,ALQ,BLQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+155124,Gable,CompShg,Plywood,Brk Cmn,None,TA,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+175099,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,Gd,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+175652,Hip,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,Gd,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176624,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+177535,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+170930,Gable,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,Gd,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+175751,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Ex,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+178393,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,Gd,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+174405,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+176158,Gable,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176870,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,RFn,TA,TA,Y
+173990,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+175341,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Ex,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+173256,Hip,CompShg,MetalSd,MetalSd,BrkFace,Ex,TA,PConc,Ex,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+179177,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+178278,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Ex,Attchd,Fin,TA,TA,Y
+185773,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,RFn,TA,TA,Y
+174948,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,TA,Attchd,RFn,TA,TA,Y
+179177,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Ex,Attchd,RFn,TA,TA,Y
+178722,Hip,CompShg,MetalSd,MetalSd,BrkFace,Gd,Gd,PConc,Ex,TA,Gd,Rec,GLQ,GasA,Ex,Y,SBrkr,Ex,Typ,TA,Attchd,RFn,TA,TA,Y
+178970,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,BLQ,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+176970,Gable,CompShg,HdBoard,ImStucc,BrkFace,Gd,TA,PConc,Gd,TA,No,LwQ,GLQ,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+177633,Gable,CompShg,CemntBd,CmentBd,Stone,Gd,TA,PConc,Gd,Gd,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+175495,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,Gd,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+181231,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,TA,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+175686,Gable,CompShg,HdBoard,HdBoard,None,Gd,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+172766,Gable,CompShg,Plywood,Plywood,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+172766,Gable,CompShg,Plywood,Plywood,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+169494,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+156093,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+151851,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+157230,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Min1,TA,Detchd,Unf,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+162472,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,Rec,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+165014,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,PConc,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+181221,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,Mn,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Po,Attchd,Unf,TA,TA,Y
+173679,Gable,CompShg,WdShing,Wd Sdng,BrkFace,Gd,Fa,CBlock,Gd,TA,Gd,ALQ,BLQ,GasA,Gd,Y,SBrkr,Gd,Mod,TA,Attchd,RFn,TA,TA,Y
+177960,Gable,CompShg,HdBoard,ImStucc,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+175985,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+175985,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,RFn,TA,TA,Y
+177526,Gable,CompShg,MetalSd,MetalSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176052,Hip,CompShg,Wd Sdng,Wd Sdng,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,BuiltIn,Unf,TA,TA,Y
+177364,Gable,CompShg,CemntBd,CmentBd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+158569,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+159718,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,LwQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154320,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+180441,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,Gd,Fa,Mn,ALQ,Rec,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+157429,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Fa,Attchd,RFn,TA,TA,Y
+157617,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+156896,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+164015,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,PConc,TA,TA,Av,ALQ,Rec,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+177874,Hip,CompShg,BrkFace,VinylSd,None,TA,Gd,PConc,TA,TA,Mn,ALQ,BLQ,GasA,Ex,Y,SBrkr,Gd,Min1,TA,Attchd,RFn,TA,TA,Y
+159457,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,LwQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+155920,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Po,Attchd,Fin,TA,TA,Y
+156093,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Fa,Attchd,Unf,TA,TA,Y
+161683,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+184396,Gable,CompShg,WdShing,Wd Shng,None,TA,TA,CBlock,TA,TA,Mn,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Min1,Gd,Attchd,Unf,TA,TA,Y
+178487,Gable,CompShg,Wd Sdng,Plywood,Stone,TA,Gd,CBlock,TA,TA,Mn,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Min1,Gd,Attchd,RFn,TA,TA,Y
+155668,Gable,CompShg,HdBoard,HdBoard,Stone,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,FuseA,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+151996,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,FuseA,TA,Min1,Gd,Attchd,Unf,TA,TA,Y
+151382,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+156896,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155415,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+157334,Hip,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+188343,Gable,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,Fa,TA,Mn,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+156093,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,FuseA,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+158351,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,Av,BLQ,Rec,GasA,Ex,Y,SBrkr,TA,Typ,TA,Basment,RFn,TA,TA,Y
+151178,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Av,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
+154908,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,Gd,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,Ex,Y,FuseA,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+156924,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+159387,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,Gd,TA,No,BLQ,Unf,GasA,Ex,Y,FuseA,TA,Min2,Gd,Detchd,Unf,TA,TA,Y
+153138,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+151479,Gable,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Rec,BLQ,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+154810,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+170851,Hip,WdShake,BrkFace,BrkFace,None,Gd,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Min1,Gd,2Types,Unf,TA,TA,Y
+154780,Hip,CompShg,Wd Sdng,VinylSd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Min1,Gd,Attchd,Unf,TA,TA,Y
+177551,Gable,CompShg,MetalSd,MetalSd,None,TA,Fa,CBlock,TA,TA,Mn,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Maj1,Gd,Attchd,RFn,TA,TA,N
+154049,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+162098,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,Fa,Fa,N
+173951,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,Fa,CBlock,TA,TA,Mn,Unf,Unf,GasA,Fa,N,FuseP,TA,Typ,Gd,Detchd,Unf,Fa,TA,N
+151471,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,BrkTil,Fa,Fa,No,Unf,Unf,GasA,Ex,Y,SBrkr,Fa,Typ,Gd,Attchd,Unf,Fa,TA,Y
+151087,Gable,CompShg,MetalSd,MetalSd,None,TA,Ex,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+158478,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,BrkTil,Fa,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,TA,Detchd,Unf,Fa,TA,Y
+157131,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+154805,Gable,CompShg,HdBoard,HdBoard,BrkCmn,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+159104,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Min2,TA,Attchd,RFn,TA,TA,Y
+157397,Hip,CompShg,Plywood,Plywood,BrkCmn,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,Gd,Y,FuseA,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+159406,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,Gd,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+154074,Gable,CompShg,BrkComm,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,Gd,Min2,Gd,Detchd,Unf,Fa,TA,Y
+159571,Gable,CompShg,BrkFace,Stone,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,Wall,Fa,N,FuseF,TA,Typ,Gd,Detchd,Unf,TA,Fa,Y
+157749,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,Fa,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+161453,Hip,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+151996,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+151996,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+153589,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+176530,Hip,CompShg,CemntBd,CmentBd,None,Gd,Gd,PConc,Fa,TA,No,Unf,Unf,GasA,Ex,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155217,Gable,CompShg,MetalSd,MetalSd,Stone,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+155855,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,Fa,No,LwQ,Unf,GasA,TA,N,SBrkr,Fa,Typ,TA,Detchd,Unf,Fa,Fa,N
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+155108,Gable,CompShg,AsbShng,Wd Sdng,None,TA,TA,Stone,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Fin,TA,TA,Y
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,SBrkr,Gd,Typ,Po,Detchd,Unf,Fa,TA,N
+170710,Gable,CompShg,MetalSd,MetalSd,None,Gd,TA,PConc,TA,TA,No,Unf,Unf,GasA,Gd,N,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,TA,P
+150194,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,Fa,No,BLQ,Rec,GasA,Gd,N,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+153155,Gable,CompShg,MetalSd,Stucco,None,TA,TA,BrkTil,TA,Fa,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+153055,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,RFn,TA,TA,Y
+167459,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,Fa,Mn,Unf,Unf,GasA,Gd,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+153470,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Av,GLQ,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+161860,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,Gd,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+156875,Gable,CompShg,AsbShng,AsbShng,None,TA,TA,BrkTil,Fa,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,N
+159339,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,Fa,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+161731,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,Fa,N
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,P
+161485,Hip,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Gd,N,FuseA,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+156082,Hip,CompShg,HdBoard,HdBoard,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+157454,Gable,CompShg,Wd Sdng,Wd Sdng,None,Fa,Fa,BrkTil,TA,Fa,No,Unf,Unf,GasA,Fa,N,FuseP,Fa,Typ,Gd,Attchd,Unf,TA,TA,N
+166564,Gambrel,CompShg,BrkComm,Stucco,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasW,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+163434,Gable,CompShg,AsbShng,AsbShng,None,Gd,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,Po,Y
+151003,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,Fa,TA,Y
+153208,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,Y,FuseA,TA,Typ,Gd,Detchd,Unf,Fa,Fa,N
+160489,Gable,CompShg,BrkFace,Wd Sdng,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+147552,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,Fa,No,Unf,Unf,GasA,Po,Y,FuseF,Fa,Typ,Gd,Detchd,Unf,Fa,Fa,Y
+161272,Gable,CompShg,AsbShng,Plywood,None,Fa,Gd,BrkTil,Fa,Fa,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,N,FuseA,Gd,Typ,Gd,Attchd,Unf,TA,TA,N
+154238,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,BrkTil,TA,TA,No,LwQ,Unf,GasA,TA,Y,FuseF,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+153979,Gable,CompShg,HdBoard,HdBoard,Stone,TA,Fa,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+161248,Gable,CompShg,BrkFace,BrkFace,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+149788,Gable,CompShg,Wd Sdng,MetalSd,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,Y,FuseA,TA,Min1,Gd,Attchd,RFn,TA,TA,Y
+149598,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,N,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+155069,Gable,CompShg,Wd Sdng,Wd Shng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,P
+178784,Shed,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,Gd,Mn,GLQ,LwQ,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+157429,Hip,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,Av,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+152979,Gable,CompShg,HdBoard,Plywood,None,TA,Gd,CBlock,TA,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+157274,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+159383,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,TA,No,BLQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+160655,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,Gd,Gd,GLQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,Fa,Detchd,Unf,TA,TA,Y
+154519,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+159767,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+160975,Gable,CompShg,BrkFace,Wd Sdng,Stone,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Fa,N,FuseF,Fa,Mod,Gd,Detchd,Unf,Fa,Fa,N
+155877,Gable,Tar&Grv,Plywood,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,Av,Rec,ALQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+156535,Flat,Tar&Grv,WdShing,Wd Shng,None,TA,TA,CBlock,Gd,TA,Av,Rec,ALQ,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Unf,TA,TA,Y
+162483,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,Av,GLQ,Rec,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+181551,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Basment,Fin,Gd,TA,Y
+150651,Gable,CompShg,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+159825,Gable,CompShg,BrkFace,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,LwQ,Unf,GasA,Ex,N,FuseA,TA,Mod,TA,BuiltIn,Unf,TA,TA,Y
+165057,Gable,CompShg,WdShing,Plywood,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,2Types,Unf,TA,TA,P
+160840,Gable,CompShg,BrkFace,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Rec,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+162433,Gable,CompShg,Plywood,Plywood,Stone,TA,TA,CBlock,TA,TA,Gd,ALQ,Rec,GasA,Ex,Y,SBrkr,TA,Min2,Fa,Attchd,Fin,TA,TA,Y
+153166,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Ex,Attchd,RFn,TA,TA,Y
+180276,Hip,CompShg,MetalSd,MetalSd,Stone,TA,TA,CBlock,TA,TA,Mn,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+154102,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,Fa,TA,Y
+172454,Gable,CompShg,HdBoard,HdBoard,BrkFace,Gd,TA,CBlock,Gd,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,TA,Attchd,RFn,TA,TA,Y
+174732,Gable,CompShg,HdBoard,HdBoard,None,Gd,Gd,PConc,Gd,TA,Av,LwQ,GLQ,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178046,Hip,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+178436,Hip,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+179913,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Gd,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+180537,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+152251,Gable,CompShg,Plywood,Plywood,None,TA,Fa,CBlock,Gd,Fa,No,LwQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Po,Attchd,RFn,TA,TA,Y
+169242,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+181426,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+184901,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+156355,Gable,CompShg,HdBoard,Plywood,BrkFace,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+155712,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,CBlock,TA,Gd,Av,ALQ,LwQ,GasA,TA,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,Fa,TA,Y
+154049,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+179082,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+182642,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+177973,Hip,CompShg,Stucco,Stucco,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,Unf,TA,TA,Y
+182642,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,Mn,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+177151,Gable,CompShg,VinylSd,VinylSd,None,Gd,Gd,PConc,Gd,Gd,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,TA,Attchd,RFn,TA,TA,Y
+177243,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+178196,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+184272,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,Gd,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+176546,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Av,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+184901,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Gd,TA,Mn,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+155537,Gable,CompShg,Plywood,Plywood,None,TA,Gd,CBlock,Gd,TA,No,Rec,BLQ,GasA,Gd,Y,SBrkr,TA,Min1,Gd,Attchd,Unf,TA,TA,Y
+158756,Flat,Tar&Grv,Plywood,Wd Shng,BrkFace,TA,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+176456,Gable,CompShg,HdBoard,Plywood,None,TA,TA,CBlock,Gd,TA,Mn,ALQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+178428,Hip,CompShg,HdBoard,Stucco,BrkFace,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,BuiltIn,Fin,TA,TA,Y
+166197,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,PConc,Gd,TA,Av,GLQ,ALQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,N
+176051,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Ex,BuiltIn,Fin,TA,TA,Y
+170444,Gable,CompShg,VinylSd,VinylSd,BrkFace,TA,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Basment,Fin,TA,TA,Y
+178189,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Gd,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Maj1,Gd,Detchd,Unf,TA,TA,Y
+181501,Gable,CompShg,VinylSd,VinylSd,None,TA,Gd,CBlock,Fa,TA,Mn,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,Po,Y
+148936,Gable,CompShg,AsbShng,AsbShng,None,TA,Fa,BrkTil,Fa,Fa,No,Unf,Unf,GasA,TA,Y,FuseF,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,FuseF,TA,Min2,Gd,Attchd,Unf,Fa,TA,Y
+156093,Hip,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,Ex,Y,SBrkr,TA,Min1,Gd,2Types,Unf,TA,TA,Y
+152388,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+153208,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,FuseF,TA,Typ,Gd,Detchd,Unf,Fa,Fa,N
+153253,Gable,CompShg,VinylSd,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,TA,N,SBrkr,Gd,Min2,Gd,Detchd,Unf,TA,Fa,N
+157133,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,Fa,TA,No,LwQ,Unf,GasA,TA,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,Fa,TA,Y
+152657,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,TA,TA,Av,BLQ,Unf,GasA,TA,N,FuseF,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159442,Gable,CompShg,Wd Sdng,Stucco,None,TA,TA,BrkTil,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+163051,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,BLQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+178632,Gable,CompShg,MetalSd,Stucco,None,TA,TA,BrkTil,TA,TA,Mn,Unf,Unf,GasA,TA,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,Fa,TA,N
+151212,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,Fa,Av,LwQ,Unf,GasA,Fa,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+150710,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,Fa,Fa,No,LwQ,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+160115,Gable,CompShg,Wd Sdng,Wd Shng,None,TA,TA,PConc,TA,Fa,No,Unf,Unf,GasA,Gd,Y,FuseF,TA,Min2,TA,Detchd,Unf,TA,TA,P
+175266,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,CBlock,Gd,TA,Mn,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+167436,Gable,CompShg,Stucco,Wd Sdng,BrkFace,Gd,Gd,BrkTil,TA,TA,No,ALQ,Unf,GasA,Ex,Y,FuseA,TA,Typ,Gd,Detchd,Unf,TA,TA,Y
+152489,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,2Types,Unf,TA,TA,Y
+160990,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,PConc,TA,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,Fa,TA,Y
+159000,Gable,CompShg,Wd Sdng,Wd Sdng,BrkFace,TA,Gd,CBlock,Gd,TA,No,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+180915,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,CBlock,TA,TA,Mn,Rec,Unf,GasA,TA,N,SBrkr,TA,Typ,Gd,Detchd,Unf,TA,TA,N
+163363,Hip,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Detchd,Fin,TA,TA,Y
+156017,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,BrkTil,Fa,TA,No,Unf,Unf,GasA,TA,N,FuseA,TA,Min1,Gd,Attchd,Unf,TA,TA,N
+154139,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,BrkTil,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Fa,Typ,Gd,Detchd,Unf,TA,TA,N
+157434,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,Gd,Typ,Gd,Detchd,Unf,TA,TA,Y
+149598,Gable,CompShg,Wd Sdng,Wd Sdng,None,TA,TA,Slab,TA,TA,No,GLQ,Unf,GasA,TA,N,SBrkr,TA,Mod,Gd,Attchd,Unf,TA,TA,N
+183361,Gable,CompShg,WdShing,Wd Shng,None,Fa,Fa,CBlock,TA,TA,Mn,Unf,Unf,GasA,TA,N,SBrkr,TA,Min2,Gd,Attchd,Unf,TA,TA,Y
+162750,Gable,CompShg,MetalSd,MetalSd,None,TA,TA,PConc,Fa,Fa,No,Unf,Unf,GasA,Fa,N,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,N
+180676,Hip,CompShg,CemntBd,CmentBd,Stone,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+180676,Hip,CompShg,CemntBd,CmentBd,Stone,Gd,TA,PConc,Ex,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+155469,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,Gd,GLQ,Unf,GasA,TA,Y,SBrkr,Fa,Typ,TA,Attchd,Fin,TA,TA,Y
+180690,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,Mn,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,2Types,Unf,TA,TA,Y
+176391,Hip,CompShg,VinylSd,VinylSd,None,Gd,TA,PConc,Ex,TA,No,Unf,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,RFn,TA,TA,Y
+159139,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,CBlock,TA,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+153726,Gable,Tar&Grv,Plywood,Plywood,None,TA,TA,CBlock,Gd,TA,Gd,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+167811,Gable,CompShg,VinylSd,VinylSd,None,Gd,TA,Wood,Gd,TA,Av,GLQ,BLQ,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Unf,TA,TA,Y
+174303,Gable,CompShg,VinylSd,VinylSd,Stone,Gd,TA,PConc,Ex,Gd,Av,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,Gd,Attchd,Fin,TA,TA,Y
+177516,Hip,CompShg,VinylSd,VinylSd,BrkFace,Ex,TA,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Ex,Y,SBrkr,Ex,Typ,Gd,Attchd,Fin,TA,TA,Y
+152285,Gable,CompShg,CBlock,VinylSd,None,TA,Fa,CBlock,TA,TA,No,GLQ,Unf,GasA,TA,Y,FuseA,TA,Mod,Gd,Attchd,Unf,Fa,TA,N
+167796,Gable,CompShg,MetalSd,MetalSd,BrkFace,TA,Gd,PConc,Gd,TA,Gd,GLQ,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Fin,TA,TA,Y
+178396,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,PConc,Gd,TA,Mn,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,TA,BuiltIn,RFn,TA,TA,Y
+155932,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,Gd,Attchd,RFn,TA,TA,Y
+156896,Gable,CompShg,Plywood,Plywood,None,TA,TA,CBlock,TA,TA,No,BLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,2Types,Unf,TA,TA,Y
+156134,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159934,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,Fa,Y
+160937,Gable,CompShg,Plywood,Plywood,BrkFace,TA,TA,PConc,TA,TA,Av,Rec,BLQ,GasA,Fa,Y,SBrkr,TA,Typ,TA,Attchd,RFn,TA,TA,Y
+159934,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,CarPort,Unf,TA,TA,Y
+159934,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+160438,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Unf,Unf,GasA,Gd,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+159934,Gable,CompShg,CemntBd,CmentBd,None,TA,TA,CBlock,TA,TA,No,Rec,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,CarPort,Unf,TA,TA,Y
+154049,Gable,CompShg,VinylSd,VinylSd,None,TA,TA,CBlock,TA,TA,No,ALQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Detchd,Unf,TA,TA,Y
+158572,Gable,CompShg,HdBoard,Wd Shng,None,TA,TA,PConc,Gd,TA,Av,GLQ,Unf,GasA,TA,Y,SBrkr,TA,Typ,Gd,Attchd,Unf,TA,TA,Y
+161906,Gable,CompShg,HdBoard,HdBoard,BrkFace,TA,TA,PConc,Gd,TA,Av,LwQ,Unf,GasA,Ex,Y,SBrkr,TA,Typ,TA,Attchd,Fin,TA,TA,Y
